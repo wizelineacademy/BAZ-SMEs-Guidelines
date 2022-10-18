@@ -4,6 +4,7 @@
 
 - [I. Información General](#i-Informacion-General)
 - [II. Roles de apoyo](#ii-Roles-de-apoyo)
+
         - [Lead SME](#lead-sme)
         - [Creador de Contenido](#creador-de-contenido)
         - [Instructor](#instructor)
