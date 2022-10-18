@@ -29,7 +29,7 @@ El proyecto consta de 2 fases:
 Es el "Subject Matter Expert" de apoyo para DSA. 
 - Genera el temario de cada nivel.
 - Genera el Proyecto Final o Capstone Project, incluyendo rúbrica y scorecard.
-- Coordina a los creadores de contenido, instructores y mentores para asignarles temas y clases. Así como le da seguimiento al llenado de los formatos utilizados durante los cursos.
+- Coordina a los creadores de contenido, instructores y mentores para asignarles temas y clases. Así como dar seguimiento al llenado de los formatos utilizados durante los cursos.
 - Asigna a los ingenieros que fungirán como instructores, mentores presenciales y mentores para revisión de proyecto final.
 - Está asignado durante todo el proyecto.
 
@@ -63,7 +63,15 @@ Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje,
 - Asegurarse de que su estudiante envía sus entregables por medio del Form, para tener registro de entregas.
 - Revisar y calificar por medio del scorecard los entregables en un plazo máximo de 24 horas del día de entrega.
 - Enviar por correo los resultados y comentarios a cada estudiante, copiando a baz-dsa@wizeline.com.
-- Asistir a la sesión semanal de seguimiento con el equipo de DSA
+- Asistir a la sesión semanal de seguimiento con el equipo de DSA.
+
+## Evaluador
+Es la persona asignada de evaluar a los participantes del proyecto en sus distintas etapas: Inicio, Final del bloque y Remediales.
+### Responsabilidades
+- Estar al pendiente del canal en Slack.
+- Compartir su disponibilidad de días y horarios previo a las evaluaciones. 
+- Presentarse en tiempo y forma el día de la evaluación a su sesión Zoom (confirmar invitación).
+- Llenar los formatos (Forms o Google Sheet) con la información requerida para su evaluado, incluyendo comentarios sustanciales, en tiempo y forma.
 
 # III. Documentación DSA/Digital Skills Accelerator
 
