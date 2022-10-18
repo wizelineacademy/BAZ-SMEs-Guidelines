@@ -8,7 +8,7 @@
         - [Creador de Contenido](#creador-de-contenido)
         - [Instructor](#instructor)
         - [Mentor](#mentor)
-        - [Evaluador](#evaluador)
+      
 - [III. Documentación DSA/Digital Skills Accelerator](#iii-Documentación-DSA/Digital-Skills-Accelerator)
 
 
@@ -65,14 +65,6 @@ Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje,
 - Revisar y calificar por medio del scorecard los entregables en un plazo máximo de 24 horas del día de entrega.
 - Enviar por correo los resultados y comentarios a cada estudiante, copiando a baz-dsa@wizeline.com.
 - Asistir a la sesión semanal de seguimiento con el equipo de DSA.
-
-## Evaluador
-Es la persona asignada de evaluar a los participantes del proyecto en sus distintas etapas: Inicio, Final del bloque y Remediales.
-### Responsabilidades
-- Estar al pendiente del canal en Slack.
-- Compartir su disponibilidad de días y horarios previo a las evaluaciones. 
-- Presentarse en tiempo y forma el día de la evaluación a su sesión Zoom (confirmar invitación).
-- Llenar los formatos (Forms o Google Sheet) con la información requerida para su evaluado, incluyendo comentarios sustanciales, en tiempo y forma.
 
 # III. Documentación DSA/Digital Skills Accelerator
 
