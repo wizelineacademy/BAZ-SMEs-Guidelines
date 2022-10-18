@@ -78,18 +78,11 @@ Es el archivo donde DSA concentra toda la información relevante al curso, que e
 ### Ligas a Master File por programa y bloque
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1](https://docs.google.com/spreadsheets/d/1SZPju6UVUBOv4vMHz71L3vJwf5VKlV0oKDm7tkYWrQY/edit#gid=1454825740)       | [Android Bloque 2](https://docs.google.com/spreadsheets/d/13hTWiopaEMQv0tZ6JLLz25aiJRO8baxtuL93hOSIj30/edit#gid=0)          | [Android Bloque 3] |  [Android Bloque 4].     |
-| `Neftali Ramos`      | - Abraham Moran Mendoza  <br/> - David de Jesus Ramírez Arellano | [Liga](https://calendly.com/neftali-ramos/mentoria-baz)
-| `Paco Ramirez`       | - Erick Gayosso Guzman <br/> - Esteban Alexander Rojas Perez <br/> - Estefania Ponce de Leon Rosas | [Liga](https://calendly.com/paco-mojica/mentoria-baz)
+| [Android Bloque 1](https://docs.google.com/spreadsheets/d/1SZPju6UVUBOv4vMHz71L3vJwf5VKlV0oKDm7tkYWrQY/edit#gid=1454825740)    | [Android Bloque 2](https://docs.google.com/spreadsheets/d/13hTWiopaEMQv0tZ6JLLz25aiJRO8baxtuL93hOSIj30/edit#gid=0)   | [Android Bloque 3] |  [Android Bloque 4].     |
+| [iOS Bloque 1](https://docs.google.com/spreadsheets/d/1w2Pif7MuGVdOqdPu270FcxmORzk08wcPRDL8n3fAYOQ/edit#gid=0)    | [iOS Bloque 2](https://docs.google.com/spreadsheets/d/1OeGPNlp6iaeH9nSKc4rzHJGcXdno7ys6-v7vd5D4pqE/edit#gid=182375352)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
+| [Java Bloque 1](https://docs.google.com/spreadsheets/d/1L9mSeJk5DO8qmd3ZwKUO7FIRonWjpWazUv8XPh4deFc/edit#gid=1204383766)    | [Java Bloque 2](https://docs.google.com/spreadsheets/d/1UJ80ho-OU5M1GDJfKCQ30pGPxAeqc1EHOMuosmz0OyQ/edit#gid=185342147)   | [Java Bloque 3] |  [Java Bloque 4].     |
+| [QA Bloque 1](https://docs.google.com/spreadsheets/d/1yZ6LbQFwmaYbhZGi6LcnRBlR99vFB_l-Ec4fmfNoheo/edit#gid=0)    | [QA Bloque 2](https://docs.google.com/spreadsheets/d/12kSSr0NTvXwz3uR_7lzCtVIlY-9vR1nYUJwv1KD7FJc/edit#gid=0)  | [QA Bloque 3] |  [QA Bloque 4].     |
 
-- [](https://docs.google.com/spreadsheets/d/1w2Pif7MuGVdOqdPu270FcxmORzk08wcPRDL8n3fAYOQ/edit#gid=0)
-- [Java Bloque 1](https://docs.google.com/spreadsheets/d/1L9mSeJk5DO8qmd3ZwKUO7FIRonWjpWazUv8XPh4deFc/edit#gid=1204383766)
-- [QA Bloque 1](https://docs.google.com/spreadsheets/d/1yZ6LbQFwmaYbhZGi6LcnRBlR99vFB_l-Ec4fmfNoheo/edit#gid=0)
-
-- [Android Bloque 2]()
-- [iOS Bloque 2](https://docs.google.com/spreadsheets/d/1OeGPNlp6iaeH9nSKc4rzHJGcXdno7ys6-v7vd5D4pqE/edit#gid=182375352)
-- [Java Bloque 2](https://docs.google.com/spreadsheets/d/1UJ80ho-OU5M1GDJfKCQ30pGPxAeqc1EHOMuosmz0OyQ/edit#gid=185342147)
-- [QA Bloque 2](https://docs.google.com/spreadsheets/d/12kSSr0NTvXwz3uR_7lzCtVIlY-9vR1nYUJwv1KD7FJc/edit#gid=0)
 
 ## Formatos de Retroalimentación de clase
 
