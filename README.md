@@ -123,6 +123,7 @@ En este documento se cuenta con la información de:
 - Desglose de temas por día/semana: pestaña "Agenda", en esta pestaña se hace el desglose del temario, asignando temas por día de clase y temas de autoestudio. Toda esta información debe ser documentada en el repositorio de cada programa.
 - Asignaciones por grupo/bloque: pestaña "Asignaciones", en esta pestaña se registra la persona que cubrira cada rol, fechas, horarios de cada curso.
 
+### Ligas
 - [Android](https://docs.google.com/spreadsheets/d/1UAwHN6bcpHrcZMQOESNyH-7vCn3AM9_MdZajFt3l_7g/edit#gid=0)
 - [iOS](https://docs.google.com/spreadsheets/d/1R15Q-hEaYJIfwNQ0J9ruVV8n_2-qqRAPcjsRtjx_AD8/edit#gid=0)
 - [Java](https://docs.google.com/spreadsheets/d/10bewyL78kTUNiITTDytD0RAytZpUIginUv8_YE2K5BY/edit#gid=2060191091)
