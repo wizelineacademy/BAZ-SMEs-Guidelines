@@ -16,8 +16,8 @@
 Gracias por tu apoyo con el programa de capacitación para el cliente de BAZ (Grupo Salinas) el cual abarca capacitaciones para ingenieros de QA, iOS, Android, Java y NodeJS.
 
 El proyecto consta de 2 fases:
-- **Fase de Evaluación**: Se realizaron 2 entrevistas a 339 Empleados de Baz Superapp y Banca Digital, siguiendo los lineamientos de contratación de Wizeline y poder identificar el nivel de experiencia de los participantes; nivel junior, intermedio o avanzado.
-- **Fase de Entrenamiento**: Para poder capacitar de manera presencial en oficinas de CDMX, contamos con 3 salones con capacidad de 18 alumnos por lo que se distribuyeron el total de empleados en 4 bloques.
+- **Fase de Evaluación**: Se realizaron 2 entrevistas a 339 Empleados de Baz Superapp y Banca Digital, siguiendo los lineamientos de contratación de Wizeline para poder identificar el nivel de experiencia de los participantes; nivel junior, intermedio o avanzado.
+- **Fase de Entrenamiento**: Para poder capacitar de manera presencial en oficinas de CDMX, contamos con 3 salones con capacidad de 18 alumnos, por lo que, se distribuyeron el total de empleados en 4 bloques.
 
 ### Calendario Bloques
 
