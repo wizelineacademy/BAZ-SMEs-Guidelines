@@ -47,19 +47,38 @@ Es la persona que impartirá las clases ya sea de manera presencial o en línea.
 - Integrarse al grupo de Telegram de su curso y presentarse, poner su nombre y título (Ej. Vanessa DLA - instructora).
 - Imparte la clase y ejercicios (durante clase o mentoría grupal).
 - Registra la asistencia de los estudiantes en Master File.
+- Asegurarse que la clase se esta grabando en Zoom.
 - Registra comentarios sobre estudiantes sobresalientes en Master File.
 - Cada viernes aplica formato de retroalimentación antes de terminar la clase.
+- Asistir a la sesión semanal de seguimiento con el equipo de DSA.
 
 ## Mentor
 Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje, al inicio de curso se le asignaran 2-3 estudiantes.
 ### Responsabilidades
 - Integrarse al grupo de Telegram de su curso y presentarse, poner su nombre y título (Ej. Vanessa DLA - mentora).
 - Crear cuenta de [Calendly](https://calendly.com/) para compartir su disponibilidad y sus estudiantes puedan agendar mentorias.
-- Asegurarse que sus estudiantes agenden mínimo una mentoría por semana
-- Pedirle al estudiante llene el formato de retroalimentación de mentoria
-- Llenar el formato de control de mentorias, para registrar el número de mentorias realizadas para pago de bono. 
+- Asegurarse que sus estudiantes agenden mínimo una mentoría por semana.
+- Pedirle al estudiante llene el formato de retroalimentación de mentoria.
+- Llenar el formato de control de mentorias, para registrar el número de mentorias realizadas para pago de bono.
+- Asegurarse que su estudiante envia sus entregables por medio del form, para tener registro de entregas.
+- Revisar y calificar por medio del scorecard los entregables en un plazo máximo de 24 horas del día de entrega.
+- Enviar por correo los resultados y comentarios a cada estudiante, copiando a baz-dsa@wizeline.com.
+- Asistir a la sesión semanal de seguimiento con el equipo de DSA
 
 # III. Documentación DSA/Digital Skills Accelerator
+
+## Ruta de Autoaprendizaje y Sesiones en vivo
+En este documento se cuenta con la información de:
+- Temario: pestaña "Temario", en esta pestaña se desglosa todo el contenido que llevará el curso, separado por niveles
+- Desglose de temas por día/semana: pestaña "Agenda", en esta pestaña se hace el desglose del temario, asignando temas por día de clase y temas de autoestudio. Toda esta información debe ser documentada en el repositorio de cada programa.
+- Asignaciones por grupo/bloque: pestaña "Asignaciones", en esta pestaña se registra la persona que cubrira cada rol, fechas, horarios de cada curso.
+
+### Ligas
+- [Android](https://docs.google.com/spreadsheets/d/1UAwHN6bcpHrcZMQOESNyH-7vCn3AM9_MdZajFt3l_7g/edit#gid=0)
+- [iOS](https://docs.google.com/spreadsheets/d/1R15Q-hEaYJIfwNQ0J9ruVV8n_2-qqRAPcjsRtjx_AD8/edit#gid=0)
+- [Java](https://docs.google.com/spreadsheets/d/10bewyL78kTUNiITTDytD0RAytZpUIginUv8_YE2K5BY/edit#gid=2060191091)
+- [QA](https://docs.google.com/spreadsheets/d/1VGSv_v3dH5fxoRiSo64oTcrJ8vIaF2Nm7_gaksfOX44/edit#gid=470006489)
+
 
 ## Candidates Master File
 Es el archivo donde DSA concentra toda la información relevante al curso, que es compartida con el cliente. Es de suma importancia mantenerla al día ya que esta información se utiliza para toma de decisiciones, planes de acción/reacción.
@@ -85,7 +104,6 @@ Es el archivo donde DSA concentra toda la información relevante al curso, que e
 
 
 ## Formatos de Retroalimentación de clase
-
 Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir como va el curso y la experiencia del estudiante para poder realizar ajustes en tiempo de ser necesario.
 Se utilizara el mismo formato por programa, durante todos los bloques (solo se van actualizando las fechas de las semanas).
 
@@ -117,18 +135,14 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 Solo es necesario registrar las mentorías hechas y son las que se consideran para bono.
 
 
-## Ruta de Autoaprendizaje y Sesiones en vivo
-En este documento se cuenta con la información de:
-- Temario: pestaña "Temario", en esta pestaña se desglosa todo el contenido que llevará el curso, separado por niveles
-- Desglose de temas por día/semana: pestaña "Agenda", en esta pestaña se hace el desglose del temario, asignando temas por día de clase y temas de autoestudio. Toda esta información debe ser documentada en el repositorio de cada programa.
-- Asignaciones por grupo/bloque: pestaña "Asignaciones", en esta pestaña se registra la persona que cubrira cada rol, fechas, horarios de cada curso.
+## Scorecards
 
-### Ligas
-- [Android](https://docs.google.com/spreadsheets/d/1UAwHN6bcpHrcZMQOESNyH-7vCn3AM9_MdZajFt3l_7g/edit#gid=0)
-- [iOS](https://docs.google.com/spreadsheets/d/1R15Q-hEaYJIfwNQ0J9ruVV8n_2-qqRAPcjsRtjx_AD8/edit#gid=0)
-- [Java](https://docs.google.com/spreadsheets/d/10bewyL78kTUNiITTDytD0RAytZpUIginUv8_YE2K5BY/edit#gid=2060191091)
-- [QA](https://docs.google.com/spreadsheets/d/1VGSv_v3dH5fxoRiSo64oTcrJ8vIaF2Nm7_gaksfOX44/edit#gid=470006489)
-
+| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
+|----------------------|------------------------|-------------------------|-----------------------|
+| [Android Bloque 1](https://forms.gle/J2NLa288w2dUwUHB6)    | [Android Bloque 2](https://forms.gle/sLa9DLGnBimyRMxM7)   | [Android Bloque 3] |  [Android Bloque 4].     |
+| [iOS Bloque 1](https://forms.gle/4J1p5nnvZsY6jd1d6)    | [iOS Bloque 2]()   | [iOS Bloque 3] |  [iOS Bloque 4].     |
+| Scorecard en Master File    | Scorecard en Master File   | [Java Bloque 3] |  [Java Bloque 4].     |
+| Scorecard en Master File    | Scorecard en Master File | [QA Bloque 3] |  [QA Bloque 4].     |
 
 
 
