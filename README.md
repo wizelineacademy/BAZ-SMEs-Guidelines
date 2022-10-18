@@ -27,40 +27,40 @@ El proyecto consta de 2 fases:
 
 ## Lead SME 
 Es el "Subject Matter Expert" de apoyo para DSA. 
-- Generan el temario de cada nivel.
-- Genera el Proyecto final o Capstone Proyect, incluyendo rúbrica y scorecard.
-- Coordina a los creadores de contenido, instructores y mentores para asignarles temas y clases. Así como seguimiento al llenado de los formatos utilizados durante los cursos.
-- Asigna a los ingenieros que cubriran como instructores, mentores presenciales y mentores para revisión de proyecto final.
-- Esta asignado durante todo el proyecto.
+- Genera el temario de cada nivel.
+- Genera el Proyecto Final o Capstone Proyect, incluyendo rúbrica y scorecard.
+- Coordina a los creadores de contenido, instructores y mentores para asignarles temas y clases. Así como le da seguimiento al llenado de los formatos utilizados durante los cursos.
+- Asigna a los ingenieros que fungirán como instructores, mentores presenciales y mentores para revisión de proyecto final.
+- Está asignado durante todo el proyecto.
 
 ## Creador de Contenido
 Es la persona encargada de generar o actualizar el contenido del curso, basandose en el temario previamente creado.
-- Cura contenido para la ruta de autoestudio
-- Crea las presentaciones para las clases utilizando las plantillas institucionales
-- Genera ejercicios de práctica para reafirmar los conocimientos impartidos en clase
+- Cura contenido para la ruta de autoestudio.
+- Crea las presentaciones para las clases utilizando las plantillas institucionales.
+- Genera ejercicios de práctica para reafirmar los conocimientos impartidos en clase.
 
 ## Instructor
-Es la persona que impartirá las clases ya sea de manera presencial o en línea.
+Es la persona que imparte las clases ya sea de manera presencial o en línea.
 ### Responsabilidades
-- Revisa junto con el Lead SME y Creadores de Contenido las presentaciones y material.
-- Estudia y comprende junto con Lead SME y Creadores de contenido los ejercicios a aplicar durante clase o mentoría grupal.
+- Revisar junto con el Lead SME y Creadores de Contenido las presentaciones y material.
+- Estudiar y comprender junto con el Lead SME y Creadores de Contenido los ejercicios a aplicar durante clase o mentoría grupal.
 - Integrarse al grupo de Telegram de su curso y presentarse, poner su nombre y título (Ej. Vanessa DLA - instructora).
-- Imparte la clase y ejercicios (durante clase o mentoría grupal).
-- Registra la asistencia de los estudiantes en Master File.
-- Asegurarse que la clase se esta grabando en Zoom.
-- Registra comentarios sobre estudiantes sobresalientes en Master File.
-- Cada viernes aplica formato de retroalimentación antes de terminar la clase.
+- Impartir la clase y ejercicios (durante clase o mentoría grupal).
+- Registrar la asistencia de los estudiantes en el Master File.
+- Asegurarse que la clase se está grabando en Zoom.
+- Registrar comentarios sobre estudiantes sobresalientes en el Master File.
+- Aplicar formato de retroalimentación antes de terminar la clase (cada viernes).
 - Asistir a la sesión semanal de seguimiento con el equipo de DSA.
 
 ## Mentor
-Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje, al inicio de curso se le asignaran 2-3 estudiantes.
+Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje, al inicio de curso se le asignan de 2-3 estudiantes.
 ### Responsabilidades
 - Integrarse al grupo de Telegram de su curso y presentarse, poner su nombre y título (Ej. Vanessa DLA - mentora).
 - Crear cuenta de [Calendly](https://calendly.com/) para compartir su disponibilidad y sus estudiantes puedan agendar mentorias.
-- Asegurarse que sus estudiantes agenden mínimo una mentoría por semana.
-- Pedirle al estudiante llene el formato de retroalimentación de mentoria.
-- Llenar el formato de control de mentorias, para registrar el número de mentorias realizadas para pago de bono.
-- Asegurarse que su estudiante envia sus entregables por medio del form, para tener registro de entregas.
+- Asegurarse que sus estudiantes agenden como mínimo una mentoría por semana.
+- Pedirle al estudiante llenar el formato de retroalimentación de mentoría.
+- Llenar el formato de control de mentorías para registrar el número de mentorías realizadas para pago de bono.
+- Asegurarse de que su estudiante envía sus entregables por medio del Form, para tener registro de entregas.
 - Revisar y calificar por medio del scorecard los entregables en un plazo máximo de 24 horas del día de entrega.
 - Enviar por correo los resultados y comentarios a cada estudiante, copiando a baz-dsa@wizeline.com.
 - Asistir a la sesión semanal de seguimiento con el equipo de DSA
@@ -68,10 +68,10 @@ Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje,
 # III. Documentación DSA/Digital Skills Accelerator
 
 ## Ruta de Autoaprendizaje y Sesiones en vivo
-En este documento se cuenta con la información de:
-- Temario: pestaña "Temario", en esta pestaña se desglosa todo el contenido que llevará el curso, separado por niveles
-- Desglose de temas por día/semana: pestaña "Agenda", en esta pestaña se hace el desglose del temario, asignando temas por día de clase y temas de autoestudio. Toda esta información debe ser documentada en el repositorio de cada programa.
-- Asignaciones por grupo/bloque: pestaña "Asignaciones", en esta pestaña se registra la persona que cubrira cada rol, fechas, horarios de cada curso.
+Este documento cuenta con la información de:
+- Temario: Pestaña "Temario", en esta pestaña se desglosa todo el contenido que llevará el curso, separado por niveles
+- Desglose de temas por día/semana: Pestaña "Agenda", en esta pestaña se hace el desglose del temario, asignando temas por día de clase y temas de autoestudio. Toda esta información debe estar documentada en el repositorio de cada programa.
+- Asignaciones por grupo/bloque: Pestaña "Asignaciones", en esta pestaña se registra la persona que cubrirá cada rol, fechas, horarios de cada curso.
 
 ### Ligas
 - [Android](https://docs.google.com/spreadsheets/d/1UAwHN6bcpHrcZMQOESNyH-7vCn3AM9_MdZajFt3l_7g/edit#gid=0)
@@ -81,18 +81,18 @@ En este documento se cuenta con la información de:
 
 
 ## Candidates Master File
-Es el archivo donde DSA concentra toda la información relevante al curso, que es compartida con el cliente. Es de suma importancia mantenerla al día ya que esta información se utiliza para toma de decisiciones, planes de acción/reacción.
-Tu apoyo es vital en llenar la información que te corresponde de acuerdo a tu rol y responsabilidades.
-Es el archivo donde DSA concentra toda la información relevante al curso, que es compartida con el cliente. Es de suma importancia mantenerla al día ya que esta información se utiliza para toma de decisiciones, planes de acción/reacción.
+Es el archivo donde DSA concentra toda la información relevante al curso, que es compartida con el cliente. Es de suma importancia mantenerla al día, ya que, esta información se utiliza para toma de decisiciones, planes de acción/reacción.
+Tu apoyo es vital para llenar la información que te corresponde de acuerdo a tu rol y responsabilidades.
 
-### Que pestañas incluye el Master File?
+
+### ¿Qué pestañas incluye el Master File?
 
 - **Calendario**: Puedes ver la organización de clases en vivo, en línea, fechas de entrega, cierre de curso, fechas de etapa remedial, etc.
-- **Participantes**: Listado de los estuditantes, correos, asistencia, total de mentorias, entregas y calificaciones.
-- **Entregables**: Ligado al form, es donde caen las respuestas de quienes han enviado sus entregables, para poder llevar el registro.
-- **Scorecard Challenges**: ya sea un scorecard manual o ligado al form donde se registran los resultados al revisar los entregables.
-- **Mentorias**: Ligado al form donde los mentores hacen registro de las mentorias realizadas (importante para llevar registro de mentorias por estudiante y para pago de las mismas).
-- **Mentores**: Se lleva la suma y registro por mentor de estudiantes asignados, mentorias, revisión de entregables.
+- **Participantes**: Listado de los estuditantes, correos, asistencia, total de mentorías, entregas y calificaciones.
+- **Entregables**: Ligado al Form, es en donde caen las respuestas de quienes han enviado sus entregables, para poder llevar el registro.
+- **Scorecard Challenges**: Puede ser un scorecard manual o ligado al Form donde se registran los resultados al revisar los entregables.
+- **Mentorias**: Ligado al form donde los mentores hacen registro de las mentorias realizadas (importante para llevar registro de mentorías por estudiante y para pago de las mismas).
+- **Mentores**: Se lleva la suma y registro por mentor de estudiantes asignados, mentorías, revisión de entregables.
 
 ### Ligas a Master File por programa y bloque
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
@@ -104,8 +104,8 @@ Es el archivo donde DSA concentra toda la información relevante al curso, que e
 
 
 ## Formatos de Retroalimentación de clase
-Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir como va el curso y la experiencia del estudiante para poder realizar ajustes en tiempo de ser necesario.
-Se utilizara el mismo formato por programa, durante todos los bloques (solo se van actualizando las fechas de las semanas).
+Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir cómo va el curso y la experiencia del estudiante para poder realizar ajustes a tiempo, de ser necesario.
+Se utilizará el mismo formato por programa, durante todos los bloques (sólo se van actualizando las fechas de las semanas).
 
 - [Android](https://forms.gle/oZn8PXKbw3BJT5Fs6)
 - [iOS](https://forms.gle/CtwNHjt89rhzYv8o7)
@@ -113,7 +113,7 @@ Se utilizara el mismo formato por programa, durante todos los bloques (solo se v
 - [QA](https://forms.gle/31Z7vw9VdE2qogRk8)
 
 ## Formatos para Mentoria
-Tanto el estudiante como el mentor deben llenar el formato correspondiente para validar sus mentorias realizadas.
+Tanto el estudiante como el mentor deben llenar el formato correspondiente para validar sus mentorías realizadas.
 
 ### Formato para el estudiante
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
@@ -131,8 +131,8 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 | [Java Bloque 1](https://forms.gle/NR2jhQNrs5srFxfo6)    | [Java Bloque 2](https://forms.gle/zGt6qLkRAKAVkQvW7)   | [Java Bloque 3] |  [Java Bloque 4].     |
 | [QA Bloque 1](https://forms.gle/oFH96moXQ7697j336)    | [QA Bloque 2](https://forms.gle/hbAUXnqvQkJitvw18)  | [QA Bloque 3] |  [QA Bloque 4].     |
 
-**Nota**: Asegurate de tener tu calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escribele por telegram y espera otros 5 minutos. Si no se presenta, desconectate de la sesión y espera respuesta de tu estudiante para reagendar.
-Solo es necesario registrar las mentorías hechas y son las que se consideran para bono.
+**Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a Academy y espera respuesta de tu estudiante para reagendar.
+Sólo es necesario registrar las mentorías hechas y son las que se consideran para bono.
 
 
 ## Scorecards
