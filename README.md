@@ -98,29 +98,35 @@ Se utilizara el mismo formato por programa, durante todos los bloques (solo se v
 Tanto el estudiante como el mentor deben llenar el formato correspondiente para validar sus mentorias realizadas.
 
 ### Formato para el estudiante
-- [Android]
-- [iOS]
-- [Java]
-- [QA]
+| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
+|----------------------|------------------------|-------------------------|-----------------------|
+| [Android Bloque 1](https://forms.gle/Cr7HhJZxURvScz8c8)    | [Android Bloque 2](https://forms.gle/sLa9DLGnBimyRMxM7)   | [Android Bloque 3] |  [Android Bloque 4].     |
+| [iOS Bloque 1](https://forms.gle/DUBewBZQEGCbSfgM9)    | [iOS Bloque 2](https://forms.gle/rBrCWfRF8ADYLPhd6)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
+| [Java Bloque 1](https://forms.gle/umgp3WsQFthPxFrL8)    | [Java Bloque 2](https://forms.gle/Ds6BrnP64o1sUBU57)   | [Java Bloque 3] |  [Java Bloque 4].     |
+| [QA Bloque 1](https://forms.gle/SiLJXvwbHJkcXzYp9)    | [QA Bloque 2](https://forms.gle/Qs9dopHmL6QLpDzB7) | [QA Bloque 3] |  [QA Bloque 4].     |
 
 ### Formato para el mentor
-- [Android]
-- [iOS]
-- [Java]
-- [QA]
+| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
+|----------------------|------------------------|-------------------------|-----------------------|
+| [Android Bloque 1](https://forms.gle/xvd9ggjxbVzVoSF26)    | [Android Bloque 2](https://forms.gle/RmyBgwu93Tgf3mQd7)   | [Android Bloque 3] |  [Android Bloque 4].     |
+| [iOS Bloque 1](https://forms.gle/PqaZJKtRxdMNu5kF7)    | [iOS Bloque 2](https://forms.gle/huJBTomsKAargsgu5)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
+| [Java Bloque 1](https://forms.gle/NR2jhQNrs5srFxfo6)    | [Java Bloque 2](https://forms.gle/zGt6qLkRAKAVkQvW7)   | [Java Bloque 3] |  [Java Bloque 4].     |
+| [QA Bloque 1](https://forms.gle/oFH96moXQ7697j336)    | [QA Bloque 2](https://forms.gle/hbAUXnqvQkJitvw18)  | [QA Bloque 3] |  [QA Bloque 4].     |
 
 **Nota**: Asegurate de tener tu calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escribele por telegram y espera otros 5 minutos. Si no se presenta, desconectate de la sesión y espera respuesta de tu estudiante para reagendar.
 Solo es necesario registrar las mentorías hechas y son las que se consideran para bono.
 
-# IV. Creación de Contenido
 
-## Documento ruta de Autoaprendizaje y Sesiones en vivo
+## Ruta de Autoaprendizaje y Sesiones en vivo
 En este documento se cuenta con la información de:
 - Temario: pestaña "Temario", en esta pestaña se desglosa todo el contenido que llevará el curso, separado por niveles
 - Desglose de temas por día/semana: pestaña "Agenda", en esta pestaña se hace el desglose del temario, asignando temas por día de clase y temas de autoestudio. Toda esta información debe ser documentada en el repositorio de cada programa.
 - Asignaciones por grupo/bloque: pestaña "Asignaciones", en esta pestaña se registra la persona que cubrira cada rol, fechas, horarios de cada curso.
 
 - [Android](https://docs.google.com/spreadsheets/d/1UAwHN6bcpHrcZMQOESNyH-7vCn3AM9_MdZajFt3l_7g/edit#gid=0)
+- [iOS](https://docs.google.com/spreadsheets/d/1R15Q-hEaYJIfwNQ0J9ruVV8n_2-qqRAPcjsRtjx_AD8/edit#gid=0)
+- [Java](https://docs.google.com/spreadsheets/d/10bewyL78kTUNiITTDytD0RAytZpUIginUv8_YE2K5BY/edit#gid=2060191091)
+- [QA](https://docs.google.com/spreadsheets/d/1VGSv_v3dH5fxoRiSo64oTcrJ8vIaF2Nm7_gaksfOX44/edit#gid=470006489)
 
 
 
