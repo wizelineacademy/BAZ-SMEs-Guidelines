@@ -28,7 +28,7 @@ El proyecto consta de 2 fases:
 ## Lead SME 
 Es el "Subject Matter Expert" de apoyo para DSA. 
 - Genera el temario de cada nivel.
-- Genera el Proyecto Final o Capstone Proyect, incluyendo rúbrica y scorecard.
+- Genera el Proyecto Final o Capstone Project, incluyendo rúbrica y scorecard.
 - Coordina a los creadores de contenido, instructores y mentores para asignarles temas y clases. Así como le da seguimiento al llenado de los formatos utilizados durante los cursos.
 - Asigna a los ingenieros que fungirán como instructores, mentores presenciales y mentores para revisión de proyecto final.
 - Está asignado durante todo el proyecto.
