@@ -8,6 +8,7 @@
         - [Creador de Contenido](#creador-de-contenido)
         - [Instructor](#instructor)
         - [Mentor](#mentor)
+        - [Evaluador](#evaluador)
 - [III. Documentación DSA/Digital Skills Accelerator](#iii-Documentación-DSA/Digital-Skills-Accelerator)
 
 
