@@ -21,7 +21,7 @@ El proyecto consta de 2 fases:
 
 ### Calendario Bloques
 
-![Calendario](https://github.com/wizelineacademy/BAZ-SMEs-Guidelines/blob/main/Calendario BAZ.png)
+![Calendario](https://github.com/wizelineacademy/BAZ-SMEs-Guidelines/blob/main/CalendarioBAZ.png)
 
 # II. Roles de apoyo
 
