@@ -119,10 +119,10 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 ### Formato para el estudiante
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1](https://forms.gle/Cr7HhJZxURvScz8c8)    | [Android Bloque 2](https://forms.gle/sLa9DLGnBimyRMxM7)   | [Android Bloque 3] |  [Android Bloque 4].     |
-| [iOS Bloque 1](https://forms.gle/DUBewBZQEGCbSfgM9)    | [iOS Bloque 2](https://forms.gle/rBrCWfRF8ADYLPhd6)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
-| [Java Bloque 1](https://forms.gle/umgp3WsQFthPxFrL8)    | [Java Bloque 2](https://forms.gle/Ds6BrnP64o1sUBU57)   | [Java Bloque 3] |  [Java Bloque 4].     |
-| [QA Bloque 1](https://forms.gle/SiLJXvwbHJkcXzYp9)    | [QA Bloque 2](https://forms.gle/Qs9dopHmL6QLpDzB7) | [QA Bloque 3](https://forms.gle/a5zwdMkyb4dAgAEH8) |  [QA Bloque 4].     |
+| Android Bloque 1| [Android Bloque 2](https://forms.gle/sLa9DLGnBimyRMxM7)   | [Android Bloque 3] |  [Android Bloque 4].     |
+| iOS Bloque 1| [iOS Bloque 2](https://forms.gle/rBrCWfRF8ADYLPhd6)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
+| Java Bloque 1| [Java Bloque 2](https://forms.gle/Ds6BrnP64o1sUBU57)   | [Java Bloque 3] |  [Java Bloque 4].     |
+| QA Grupo 1| QA Grupo 2 - [QA Grupo 3](https://forms.gle/a5zwdMkyb4dAgAEH8)| [QA Grupo 1 Int.]|  [QA Bloque 4].     |
 
 ### Formato para el mentor
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
