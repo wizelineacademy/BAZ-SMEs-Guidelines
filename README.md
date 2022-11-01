@@ -130,7 +130,7 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 | [Android Bloque 1](https://forms.gle/xvd9ggjxbVzVoSF26)    | [Android Bloque 2](https://forms.gle/RmyBgwu93Tgf3mQd7)   | [Android Bloque 3] |  [Android Bloque 4].     |
 | [iOS Bloque 1](https://forms.gle/PqaZJKtRxdMNu5kF7)    | [iOS Bloque 2](https://forms.gle/huJBTomsKAargsgu5)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
 | [Java Bloque 1](https://forms.gle/NR2jhQNrs5srFxfo6)    | [Java Bloque 2](https://forms.gle/zGt6qLkRAKAVkQvW7)   | [Java Bloque 3] |  [Java Bloque 4].     |
-| [QA Grupo 1](https://forms.gle/oFH96moXQ7697j336)    | [QA Grupo 2](https://forms.gle/hbAUXnqvQkJitvw18)[QA Grupo 3](https://forms.gle/zn1ya3mHgJsSjPqTA)  | [QA Grupo 1 Int.]|  [QA Bloque 4].     |
+| [QA Grupo 1](https://forms.gle/oFH96moXQ7697j336)    | [QA Grupo 2](https://forms.gle/hbAUXnqvQkJitvw18) [QA Grupo 3](https://forms.gle/zn1ya3mHgJsSjPqTA)  | [QA Grupo 1 Int.]|  [QA Bloque 4].     |
 
 **Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a Academy y espera respuesta de tu estudiante para reagendar.
 Sólo es necesario registrar las mentorías hechas y son las que se consideran para bono.
