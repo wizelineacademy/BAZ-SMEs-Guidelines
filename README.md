@@ -146,4 +146,13 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 | Scorecard en Master File    | Scorecard en Master File | [QA Bloque 3] |  [QA Bloque 4].     |
 
 
+## Git del alumno
+| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
+|----------------------|------------------------|-------------------------|-----------------------|
+| [Android Bloque 1](https://github.com/wizelineacademy/BAZANDROID1-2022)    | [Android Bloque 2](https://github.com/wizelineacademy/BAZANDROID2-2022)   | [Android Bloque 3] |  [Android Bloque 4].     |
+| [iOS Bloque 1](https://github.com/wizelineacademy/BAZiOS1-2022)    | [iOS Bloque 2](https://github.com/wizelineacademy/BAZiOS2-2022)   | [iOS Bloque 3] |  [iOS Bloque 4]. 
+| [Java Bloque 1](https://github.com/wizelineacademy/BAZJAVA1-2022)| [Java Bloque 2](https://github.com/wizelineacademy/BAZJAVA2-2022)   | [Java Bloque 3] |  [Java Bloque 4].     |
+| [QA Grupo 1 y Grupo2](https://github.com/wizelineacademy/BAZQA12022)| [QA Grupo 3](https://github.com/wizelineacademy/BAZQA32022)  | [QA Grupo 1 Int.]|  [QA Bloque 4].     ||
+
+
 
