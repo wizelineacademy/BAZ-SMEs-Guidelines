@@ -140,7 +140,7 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1](https://forms.gle/J2NLa288w2dUwUHB6)    | [Android Bloque 2](https://forms.gle/ev7LTyLneUyA6KV36)   | [Android Bloque 3] |  [Android Bloque 4].     |
+| [Android Bloque 1](https://forms.gle/J2NLa288w2dUwUHB6)    | [Android Bloque 2](https://forms.gle/r3dV3ZRkDQueQKvN9)   | [Android Bloque 3] |  [Android Bloque 4].     |
 | [iOS Bloque 1](https://forms.gle/4J1p5nnvZsY6jd1d6)    | [iOS Bloque 2](https://forms.gle/ZNUYRXE3yKQHMod47)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
 | Scorecard en Master File    | Scorecard en Master File   | [Java Bloque 3] |  [Java Bloque 4].     |
 | Scorecard en Master File    | Scorecard en Master File | [QA Bloque 3] |  [QA Bloque 4].     |
