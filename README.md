@@ -39,7 +39,7 @@ Es el "Subject Matter Expert" de apoyo para DSA.
 - iOS: Abner Castro (abner.castro@wizeline.com)
        Jorge Benavides (jorge.benavides@wizeline.com)
 - Android: Diego Median (diego.medina@wizeline.com)
-           Baltazar Ramírez (baltazar.rodriguez@wizeline.com)
+           Baltazar Rodríguez (baltazar.rodriguez@wizeline.com)
 - Java: Gerardo Fernández (gerardo.fernandez@wizeline.com)
 
 ## Creador de Contenido
