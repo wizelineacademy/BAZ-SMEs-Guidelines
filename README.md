@@ -34,6 +34,14 @@ Es el "Subject Matter Expert" de apoyo para DSA.
 - Asigna a los ingenieros que fungirán como instructores, mentores presenciales y mentores para revisión de proyecto final.
 - Está asignado durante todo el proyecto.
 
+**Lead SME's**
+- QA: Carlos Veloz (carlos.veloz@wizeline.com) 
+- iOS: Abner Castro (abner.castro@wizeline.com)
+       Jorge Benavides (jorge.benavides@wizeline.com)
+- Android: Diego Median (diego.medina@wizeline.com)
+           Baltazar Ramírez (baltazar.rodriguez@wizeline.com)
+- Java: Gerardo Fernández (gerardo.fernandez@wizeline.com)
+
 ## Creador de Contenido
 Es la persona encargada de generar o actualizar el contenido del curso, basandose en el temario previamente creado.
 - Cura contenido para la ruta de autoestudio.
