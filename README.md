@@ -41,6 +41,7 @@ Es el "Subject Matter Expert" de apoyo para DSA.
 - Android: Diego Medina (diego.medina@wizeline.com)
            Baltazar Rodríguez (baltazar.rodriguez@wizeline.com)
 - Java: Gerardo Fernández (gerardo.fernandez@wizeline.com)
+- Node: Carlos Goyeneche (carlos.goyeneche@wizeline.com)
 
 ## Creador de Contenido
 Es la persona encargada de generar o actualizar el contenido del curso, basandose en el temario previamente creado.
