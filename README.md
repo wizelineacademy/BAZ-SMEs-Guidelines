@@ -131,7 +131,7 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 | Android Bloque 1| [Android Bloque 2] | [Android Bloque 3](https://forms.gle/Jj42tjQNr9HfMQpVA) |  [Android Bloque 4].     |
 | iOS Bloque 1| [iOS Bloque 2]| [iOS Bloque 3](https://forms.gle/NkNGgGdLgameU94R8) |  [iOS Bloque 4].     |
 | Java Bloque 1| [Java Bloque 2](| [Java Bloque 3](https://forms.gle/CdLK83qdbv38keZW7) |  [Java Bloque 4].     |
-| QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Grupo 1](https://forms.gle/DJ4KnVUHQGk99FYF6)|  [QA Bloque 4].     |
+| QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Bloque 3](https://forms.gle/DJ4KnVUHQGk99FYF6)|  [QA Bloque 4].     |
 
 ### Formato para el mentor
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
