@@ -128,18 +128,18 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 ### Formato para el estudiante
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| Android Bloque 1| [Android Bloque 2](https://forms.gle/sLa9DLGnBimyRMxM7)   | [Android Bloque 3] |  [Android Bloque 4].     |
-| iOS Bloque 1| [iOS Bloque 2](https://forms.gle/rBrCWfRF8ADYLPhd6)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
-| Java Bloque 1| [Java Bloque 2](https://forms.gle/Ds6BrnP64o1sUBU57)   | [Java Bloque 3] |  [Java Bloque 4].     |
-| QA Grupo 1| QA Grupo 2 - [QA Grupo 3](https://forms.gle/a5zwdMkyb4dAgAEH8)| [QA Grupo 1 Int.]|  [QA Bloque 4].     |
+| Android Bloque 1| [Android Bloque 2] | [Android Bloque 3](https://forms.gle/Jj42tjQNr9HfMQpVA) |  [Android Bloque 4].     |
+| iOS Bloque 1| [iOS Bloque 2]| [iOS Bloque 3](https://forms.gle/NkNGgGdLgameU94R8) |  [iOS Bloque 4].     |
+| Java Bloque 1| [Java Bloque 2](| [Java Bloque 3](https://forms.gle/CdLK83qdbv38keZW7) |  [Java Bloque 4].     |
+| QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Grupo 1](https://forms.gle/DJ4KnVUHQGk99FYF6)|  [QA Bloque 4].     |
 
 ### Formato para el mentor
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| Android Bloque 1   | [Android Bloque 2](https://forms.gle/RmyBgwu93Tgf3mQd7)   | [Android Bloque 3] |  [Android Bloque 4].     |
-| iOS Bloque 1       | [iOS Bloque 2](https://forms.gle/huJBTomsKAargsgu5)   | [iOS Bloque 3] |  [iOS Bloque 4].     |
-| Java Bloque 1| [Java Bloque 2](https://forms.gle/zGt6qLkRAKAVkQvW7)   | [Java Bloque 3] |  [Java Bloque 4].     |
-| QA Grupo 1| QA Grupo 2- [QA Grupo 3](https://forms.gle/zn1ya3mHgJsSjPqTA)  | [QA Grupo 1 Int.]|  [QA Bloque 4].     |
+| Android Bloque 1   | [Android Bloque 2]| [Android Bloque 3](https://forms.gle/vxSCThhzYVfXmRCt9) |  [Android Bloque 4].     |
+| iOS Bloque 1       | [iOS Bloque 2]| [iOS Bloque 3](https://forms.gle/hA2hTbJynjiCDCgb6) |  [iOS Bloque 4].     |
+| Java Bloque 1| [Java Bloque 2]| [Java Bloque 3](https://forms.gle/cg8UPQjcxVVBotJUA)|  [Java Bloque 4].     |
+| QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Grupo 1](https://forms.gle/99V6SZpWYhDmDkv59)|  [QA Bloque 4].     |
 
 **Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a Academy y espera respuesta de tu estudiante para reagendar.
 Sólo es necesario registrar las mentorías hechas y son las que se consideran para bono.
