@@ -35,7 +35,7 @@ Es el "Subject Matter Expert" de apoyo para DSA.
 - Está asignado durante todo el proyecto.
 
 **Lead SME's**
-- QA: Carlos Veloz (carlos.veloz@wizeline.com) 
+- QA: Carlos Veloz (carlos.veloz@wizeline.com) Luis Galaz(luis.galaz@wizeline.com)
 - iOS: Abner Castro (abner.castro@wizeline.com)
        Jorge Benavides (jorge.benavides@wizeline.com)
 - Android: Diego Medina (diego.medina@wizeline.com)
