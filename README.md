@@ -109,7 +109,7 @@ Tu apoyo es vital para llenar la información que te corresponde de acuerdo a tu
 |----------------------|------------------------|-------------------------|-----------------------|
 | [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3](https://docs.google.com/spreadsheets/d/18Guegdcyq-2rs19rvD10at4XzeictWTDI-YMhPqPHAw/edit?usp=sharing) |  [Android Bloque 4].     |
 | [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3](https://docs.google.com/spreadsheets/d/1jkNVp3M8ww6YCOxPxMnJQL9lTHtsRBgEVZArcCZo3CY/edit?usp=sharing) |  [iOS Bloque 4].     |
-| [Java Bloque 1]| [Java Bloque 2] [Java Bloque 3](https://docs.google.com/spreadsheets/d/1pXDpGXFwilzdmDVi2UjMcyRK-FH_5SOVsdDjx34PuFI/edit?usp=sharing) |  [Java Bloque 4].     |
+| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3](https://docs.google.com/spreadsheets/d/1pXDpGXFwilzdmDVi2UjMcyRK-FH_5SOVsdDjx34PuFI/edit?usp=sharing) |  [Java Bloque 4].     |
 | [QA Bloque 1]| [QA Bloque 2]| [QA Bloque 3](https://docs.google.com/spreadsheets/d/1nFPKcPd7LGOJQ3ww5KLtCDBeFmNjMIDjkjQx96W5kyY/edit?usp=sharing)|  [QA Bloque 4].     |
 
 
