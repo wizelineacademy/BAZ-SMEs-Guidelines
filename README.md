@@ -22,7 +22,9 @@ El proyecto consta de 2 fases:
 
 ### Calendario Bloques
 
-![Calendario]()
+<img width="600" alt="Calendario Bloques" src="https://user-images.githubusercontent.com/94467952/214378107-0f2b1e64-8c02-4f1e-851c-b1765facf838.png">
+
+
 
 # II. Roles de apoyo
 
