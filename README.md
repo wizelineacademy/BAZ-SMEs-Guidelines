@@ -138,7 +138,7 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 |----------------------|------------------------|-------------------------|-----------------------|
 | Android Bloque 1   | [Android Bloque 2]| [Android Bloque 3](https://forms.gle/vxSCThhzYVfXmRCt9) |  [Android Bloque 4].     |
 | iOS Bloque 1       | [iOS Bloque 2]| [iOS Bloque 3](https://forms.gle/hA2hTbJynjiCDCgb6) |  [iOS Bloque 4].     |
-| Java Bloque 1| [Java Bloque 2]| [Java Bloque 3](https://forms.gle/cg8UPQjcxVVBotJUA)|  [Java Bloque 4].     |
+| Java Bloque 1| Java Bloque 2| [Java Bloque 3](https://forms.gle/cg8UPQjcxVVBotJUA)|  [Java Bloque 4].     |
 | QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Bloque 3](https://forms.gle/99V6SZpWYhDmDkv59)|  [QA Bloque 4].     |
 
 **Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a Academy y espera respuesta de tu estudiante para reagendar.
@@ -151,7 +151,7 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 |----------------------|------------------------|-------------------------|-----------------------|
 | [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3](https://forms.gle/BvyEJh2ceGRC9mom6) |  [Android Bloque 4].     |
 | [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3](https://forms.gle/KSWP6hpxQZ7dDb1L7) |  [iOS Bloque 4].     |
-| [Java Bloque 1]Scorecard en Master File    | [Java Bloque 2]Scorecard en Master File   | [Java Bloque 3]Scorecard en Master File  |  [Java Bloque 4].     |
+| Java Bloque 1 Scorecard en Master File    | Java Bloque 2nScorecard en Master File   | Java Bloque 3 Scorecard en Master File  |  [Java Bloque 4].     |
 | Scorecard en Master File    | Scorecard en Master File | [QA Bloque 3]() |  [QA Bloque 4].     |
 
 
