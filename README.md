@@ -124,7 +124,7 @@ Se utilizará el mismo formato por programa, durante todos los bloques (sólo se
 - [Java](https://forms.gle/BYiP37hMWfLPPfif8)
 - [QA](https://forms.gle/31Z7vw9VdE2qogRk8)
 
-## Formatos para Mentoria
+## Formatos para Mentoría
 Tanto el estudiante como el mentor deben llenar el formato correspondiente para validar sus mentorías realizadas.
 
 ### Formato para el estudiante
