@@ -50,6 +50,7 @@ Es la persona encargada de generar o actualizar el contenido del curso, basandos
 - Cura contenido para la ruta de autoestudio.
 - Crea las presentaciones para las clases utilizando las plantillas institucionales.
 - Genera ejercicios de práctica para reafirmar los conocimientos impartidos en clase.
+Sigue las [BAZ Training Slides Guidelines](https://docs.google.com/presentation/d/1mTn_GjGPJkK7dR3l_d6nnRk4OgfII6dJNa9bwSpDRlQ/edit?usp=sharing) creadas por el equipo de Visual. Estas guidelines establecen como se distribuye el contenido de la presentación.
 
 ## Instructor
 Es la persona que imparte las clases ya sea de manera presencial o en línea.
