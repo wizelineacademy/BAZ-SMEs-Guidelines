@@ -178,6 +178,6 @@ CP 45050 <br>
 Zapopan, Jalisco <br>
 En el apartado de correo recuerda que es la dirección a la cual enviarán el PDF y XML. <br>
 
-Al tener todas las facturas es momento de ingresar los gastos a [Expensify](https://www.expensify.com/), este debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome)
+Al tener todas las facturas es momento de ingresar los gastos a [Expensify](https://www.expensify.com/), este debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome) sino aparece en OKTA es necesario levantar un ticket con [IT Service Management](https://wizeline.atlassian.net/servicedesk/customer/portal/8)
 
 <img width="600" alt="OKTA apps" src="https://user-images.githubusercontent.com/94467952/218534318-ba7a27ff-5375-4dbf-963b-c0696bb7ae80.png">
