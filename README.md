@@ -168,3 +168,15 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 
 
 
+## Guidelines de Facturación y Expensify
+FACTURACION <br>
+Para obtener la factura en el sitio del cual se hizo el consumo se deben de agregar los siguientes datos. <br>
+Wizeline S de RL de CV / Wizeline (si la facturación es 4.0 solo es necesario el nombre de la empresa) <br> 
+WIZ1401312V2 <br>
+Calle Amado Nervo #2200 Int. 401, 501 y 601 Col. Ciudad del Sol <br>
+CP 45050 <br>
+Zapopan, Jalisco <br>
+En el apartado de correo recuerda que es la dirección a la cual enviarán el PDF y XML. <br>
+
+Al tener todas las facturas es momento de ingresar los gastos a [Expensify](https://www.expensify.com/), este debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome)
+
