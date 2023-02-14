@@ -169,13 +169,13 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 
 
 ## Guidelines de Facturación y Expensify
-FACTURACION <br>
+<b>FACTURACIÓN</b> <br>
 Para obtener la factura en el sitio del cual se hizo el consumo se deben de agregar los siguientes datos. <br>
-Wizeline S de RL de CV / Wizeline (si la facturación es 4.0 solo es necesario el nombre de la empresa) <br> 
-WIZ1401312V2 <br>
-Calle Amado Nervo #2200 Int. 401, 501 y 601 Col. Ciudad del Sol <br>
-CP 45050 <br>
-Zapopan, Jalisco <br>
+&nbsp;&nbsp;&nbsp; Wizeline S de RL de CV / Wizeline (si la facturación es 4.0 solo es necesario el nombre de la empresa) <br> 
+&nbsp;&nbsp;&nbsp; WIZ1401312V2 <br>
+&nbsp;&nbsp;&nbsp; Calle Amado Nervo #2200 Int. 401, 501 y 601 Col. Ciudad del Sol <br>
+&nbsp;&nbsp;&nbsp; CP 45050 <br>
+&nbsp;&nbsp;&nbsp; Zapopan, Jalisco <br>
 En el apartado de correo recuerda que es la dirección a la cual enviarán el PDF y XML. <br>
 
 Al tener todas las facturas es momento de ingresar los gastos a [Expensify](https://www.expensify.com/), este debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome) sino aparece en OKTA es necesario levantar un ticket con [IT Service Management](https://wizeline.atlassian.net/servicedesk/customer/portal/8)
@@ -186,7 +186,22 @@ Después de hacer log in, creas un nuevo reporte para poner los gastos que quier
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/94467952/218605154-f19f977c-e3e3-48ba-84ef-53ee11241ec7.png"> <img width="120" alt="image" src="https://user-images.githubusercontent.com/94467952/218605288-e5bd8a5d-a517-4ceb-a942-da3a9956150e.png"> <br>
 
-Al crear el reporte deberás asignarlo al customer que se ve en la imagen
+Al crear el reporte deberás asignarlo al customer que se ve en la imagen y al departamento de Academy. Puedes editar el nombre del reporte para que sea más fácil identificarlo<br>
 <img width="400" alt="customer" src="https://user-images.githubusercontent.com/94467952/218608073-3d502cf9-df28-4698-897d-8e2ce90910bb.png">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/94467952/218554684-2e660fa8-30ee-4ac6-a9cf-78c6d4a646de.png">
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/94467952/218554684-2e660fa8-30ee-4ac6-a9cf-78c6d4a646de.png">
+<br> <br>
+Después de haber creado el reporte, es momento de agregar los gastos para que te sean reembolsados. <br>
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218770680-0cb16257-8be3-45ba-90be-33fc9a8b597d.png"> <br>
+
+En la parte de Add Expenses to Report haz clic en New Expense, un modal para ingresar la información de tus facturas aparecerá <br>
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218772216-58f18890-7212-4f61-828a-d32d6091bd77.png"> <br>
+
+En un pincipio el modal se verá así, la idea es llenar todos los campos, recuerda <b> ajustar las fechas </b> ya que estas vienen en default con el día en que se abre el reporte y los gastos puede que sean pasados. <br>
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218772580-c1b54f17-adb7-476d-b702-5fed5792053e.png"> <br>
+
+        
+<b> FAQ </b>
+* Puedo borrar un reporte si es necesario? <br>
+Si!, solo seleccionalo y se habilitarán opciones en las cuales podrás elegir la opción de borrar
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218769997-cf6586ef-8d20-4786-b271-aab591d80ff5.png">
