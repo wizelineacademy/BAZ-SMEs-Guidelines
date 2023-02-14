@@ -205,3 +205,10 @@ En un pincipio el modal se verá así, la idea es llenar todos los campos, recue
 * Puedo borrar un reporte si es necesario? <br>
 Si!, solo seleccionalo y se habilitarán opciones en las cuales podrás elegir la opción de borrar
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218769997-cf6586ef-8d20-4786-b271-aab591d80ff5.png">
+
+* El Merchant del cual obtuve una factura no esta disponible en el listado, qué hago? <br>
+Que no cunda el pánico! Se puede agregar de forma manual, just type in :) <br>
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218774690-295c246e-874a-4dba-bfcc-8aebac8980e4.png">
+
+
+
