@@ -184,8 +184,9 @@ Al tener todas las facturas es momento de ingresar los gastos a [Expensify](http
 
 Después de hacer log in, creas un nuevo reporte para poner los gastos que quieres reembolsar, eso es en Reports > New Report <br>
 
-<img width="150" alt="image" src="https://user-images.githubusercontent.com/94467952/218605154-f19f977c-e3e3-48ba-84ef-53ee11241ec7.png"> <img width="120" alt="image" src="https://user-images.githubusercontent.com/94467952/218605288-e5bd8a5d-a517-4ceb-a942-da3a9956150e.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/94467952/218605154-f19f977c-e3e3-48ba-84ef-53ee11241ec7.png"> <img width="120" alt="image" src="https://user-images.githubusercontent.com/94467952/218605288-e5bd8a5d-a517-4ceb-a942-da3a9956150e.png"> <br>
 
-
+Al crear el reporte deberás asignarlo al customer que se ve en la imagen
+<img width="400" alt="customer" src="https://user-images.githubusercontent.com/94467952/218608073-3d502cf9-df28-4698-897d-8e2ce90910bb.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/94467952/218554684-2e660fa8-30ee-4ac6-a9cf-78c6d4a646de.png">
 
