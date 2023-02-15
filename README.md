@@ -210,5 +210,6 @@ Si!, solo seleccionalo y se habilitarán opciones en las cuales podrás elegir l
 Que no cunda el pánico! Se puede agregar de forma manual, just type in :) <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218774690-295c246e-874a-4dba-bfcc-8aebac8980e4.png">
 
-
+* Necesito la constancai de Situacion Fiscal de Wizeline, de dónde la saco?
+Aqui esta! [Constancia noviembre 22 (4).pdf](https://github.com/wizelineacademy/BAZ-SMEs-Guidelines/files/10745552/Constancia.noviembre.22.4.pdf)
 
