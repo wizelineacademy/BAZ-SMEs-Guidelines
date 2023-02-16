@@ -178,7 +178,9 @@ Para obtener la factura en el sitio del cual se hizo el consumo se deben de agre
 &nbsp;&nbsp;&nbsp; Zapopan, Jalisco <br>
 En el apartado de correo recuerda que es la dirección a la cual enviarán el PDF y XML. <br>
 
-Al tener todas las facturas es momento de ingresar los gastos a [Expensify](https://www.expensify.com/), este debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome) sino aparece en OKTA es necesario levantar un ticket con [IT Service Management](https://wizeline.atlassian.net/servicedesk/customer/portal/8)
+Una vez que tengas tus facturas por favor registra todos tus gastos en este [archivo](https://docs.google.com/spreadsheets/d/1YUwDTqpXLzQSAMlI58AN9l2zrDS7nO6RByrWilxpuio/edit#gid=195526238), busca la pestaña correspondiente a la semana que viajaste.
+
+Despues de registrarlos, puedes solicitar tu reembolso e ingresar los gastos a [Expensify](https://www.expensify.com/), este debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome) sino aparece en OKTA es necesario levantar un ticket con [IT Service Management](https://wizeline.atlassian.net/servicedesk/customer/portal/8)
 
 <img width="600" alt="OKTA apps" src="https://user-images.githubusercontent.com/94467952/218534318-ba7a27ff-5375-4dbf-963b-c0696bb7ae80.png">
 
@@ -186,7 +188,8 @@ Después de hacer log in, creas un nuevo reporte para poner los gastos que quier
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/94467952/218605154-f19f977c-e3e3-48ba-84ef-53ee11241ec7.png"> <img width="120" alt="image" src="https://user-images.githubusercontent.com/94467952/218605288-e5bd8a5d-a517-4ceb-a942-da3a9956150e.png"> <br>
 
-Al crear el reporte deberás asignarlo al customer que se ve en la imagen y al departamento de Academy. Puedes editar el nombre del reporte para que sea más fácil identificarlo<br>
+Al crear el reporte deberás asignarlo al customer que se ve en la imagen y al departamento de Academy. Es super importante que eligas el "customer" correcto del proyecto de BAZ: "
+Puedes editar el nombre del reporte para que sea más fácil identificarlo<br>
 <img width="400" alt="customer" src="https://user-images.githubusercontent.com/94467952/218608073-3d502cf9-df28-4698-897d-8e2ce90910bb.png">
 <img width="520" alt="image" src="https://user-images.githubusercontent.com/94467952/218554684-2e660fa8-30ee-4ac6-a9cf-78c6d4a646de.png">
 <br> <br>
