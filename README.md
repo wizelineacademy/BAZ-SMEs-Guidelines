@@ -203,10 +203,10 @@ En un pincipio el modal se verá así, la idea es llenar todos los campos, recue
 Después subir todas las facturas, soloes necesario dar clic en submit, en approver será tu manager, es necesario también agregar a Vanesa DLA como copia <br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/94467952/219431177-fbe85d84-b445-4c4b-8d71-3f890ed79577.png"> <br>
  
-Los gastos serán reembolsados la quincena proxima a que se hizo el reporte.
+Los gastos serán reembolsados la quincena proxima a que se hizo el reporte. <br>
 
-Finalmente, es indispensable llenar el spreadsheets de [Control de Gastos BAZ DSA - Bloque 3](https://docs.google.com/spreadsheets/d/1YUwDTqpXLzQSAMlI58AN9l2zrDS7nO6RByrWilxpuio/edit?usp=sharing) que llevamos internamente. Por favor toma en cuenta la semana en la que viajaste ya que hay diferentes pestañas para cada semana
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/94467952/219431745-38477373-3c98-4ef9-8782-cd13c30b2774.png">
+Finalmente, es indispensable llenar el spreadsheets de [Control de Gastos BAZ DSA - Bloque 3](https://docs.google.com/spreadsheets/d/1YUwDTqpXLzQSAMlI58AN9l2zrDS7nO6RByrWilxpuio/edit?usp=sharing) que llevamos internamente. Por favor toma en cuenta la semana en la que viajaste ya que hay diferentes pestañas para cada semana <br>
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/94467952/219431745-38477373-3c98-4ef9-8782-cd13c30b2774.png">
 
         
 <b> FAQ </b>
@@ -218,6 +218,7 @@ Si!, solo seleccionalo y se habilitarán opciones en las cuales podrás elegir l
 Que no cunda el pánico! Se puede agregar de forma manual, just type in :) <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218774690-295c246e-874a-4dba-bfcc-8aebac8980e4.png">
 
-* Necesito la constancai de Situacion Fiscal de Wizeline, de dónde la saco?
+<b> TROUBLESHOOT
+* Necesito la constancia de Situacion Fiscal de Wizeline, de dónde la saco?
 Aqui esta! [Constancia noviembre 22 (4).pdf](https://github.com/wizelineacademy/BAZ-SMEs-Guidelines/files/10745552/Constancia.noviembre.22.4.pdf)
 
