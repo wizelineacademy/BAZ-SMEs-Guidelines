@@ -10,7 +10,7 @@
         - [Mentor](#mentor)
       
 - [III. Documentación DSA/Digital Skills Accelerator](#iii-Documentación-DSA/Digital-Skills-Accelerator)
-- [IV. Guidelines de Facturación y ExpensifyGuidelines de Facturación y Expensify](#iv-Guidelines-de-Facturación-y-Expensify)
+- [IV. Guidelines de Facturación y Expensify](#iv-Guidelines-de-Facturación-y-Expensify)
 
 # I. Información General
 
