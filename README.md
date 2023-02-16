@@ -10,7 +10,7 @@
         - [Mentor](#mentor)
       
 - [III. Documentación DSA/Digital Skills Accelerator](#iii-Documentación-DSA/Digital-Skills-Accelerator)
-
+- [IV. Guidelines de Facturación y ExpensifyGuidelines de Facturación y Expensify](#iv-Guidelines-de-Facturación-y-Expensify)
 
 # I. Información General
 
@@ -168,7 +168,7 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 
 
 
-## Guidelines de Facturación y Expensify
+## IV. Guidelines de Facturación y Expensify
 <b>FACTURACIÓN</b> <br>
 Para obtener la factura en el sitio del cual se hizo el consumo se deben de agregar los siguientes datos. <br>
 &nbsp;&nbsp;&nbsp; Wizeline S de RL de CV / Wizeline (si la facturación es 4.0 solo es necesario el nombre de la empresa) <br> 
