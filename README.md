@@ -200,6 +200,14 @@ En la parte de Add Expenses to Report haz clic en New Expense, un modal para ing
 En un pincipio el modal se verá así, la idea es llenar todos los campos, recuerda <b> ajustar las fechas </b> ya que estas vienen en default con el día en que se abre el reporte y los gastos puede que sean pasados. <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218772580-c1b54f17-adb7-476d-b702-5fed5792053e.png"> <br>
 
+Después subir todas las facturas, soloes necesario dar clic en submit, en approver será tu manager, es necesario también agregar a Vanesa DLA como copia <br>
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/94467952/219431177-fbe85d84-b445-4c4b-8d71-3f890ed79577.png"> <br>
+ 
+Los gastos serán reembolsados la quincena proxima a que se hizo el reporte.
+
+Finalmente, es indispensable llenar el spreadsheets de [Control de Gastos BAZ DSA - Bloque 3](https://docs.google.com/spreadsheets/d/1YUwDTqpXLzQSAMlI58AN9l2zrDS7nO6RByrWilxpuio/edit?usp=sharing) que llevamos internamente. Por favor toma en cuenta la semana en la que viajaste ya que hay diferentes pestañas para cada semana
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/94467952/219431745-38477373-3c98-4ef9-8782-cd13c30b2774.png">
+
         
 <b> FAQ </b>
 * Puedo borrar un reporte si es necesario? <br>
