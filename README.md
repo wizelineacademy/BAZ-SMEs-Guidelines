@@ -75,7 +75,7 @@ Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje,
 - Llenar el formato de control de mentorías para registrar el número de mentorías realizadas para pago de bono.
 - Asegurarse de que su estudiante envía sus entregables por medio del Form, para tener registro de entregas.
 - Revisar y calificar por medio del scorecard los entregables en un plazo máximo de 24 horas del día de entrega.
-- Enviar por correo los resultados y comentarios a cada estudiante, copiando a baz-dsa@wizeline.com.
+- Enviar por correo los resultados y comentarios a cada estudiante, copiando a baz-dsa@wizeline.com. Basarse en este template para llenar toda la información respectiva al entregable del estudiante [Feedback Template](https://docs.google.com/document/d/1KpttDGgdnnASvkYyWbpfpop8KAG-lGY8i_WUDfmgqPQ/edit?usp=sharing)
 - Asistir a la sesión semanal de seguimiento con el equipo de DSA.
 
 # III. Documentación DSA/Digital Skills Accelerator
