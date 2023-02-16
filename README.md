@@ -191,9 +191,11 @@ Después de hacer log in, creas un nuevo reporte para poner los gastos que quier
 Al crear el reporte deberás asignarlo al customer que se ve en la imagen y al departamento de Academy. 
 Es vital que eligas el "customer" correcto del proyecto de BAZ: **"Baz Super App - Academy - BAZ Level Up Program-Project_MX"** 
 
-Adicional, puedes editar el nombre del reporte para que sea más fácil identificarlo<br>
 
 <img width="400" alt="customer" src="https://user-images.githubusercontent.com/94467952/218608073-3d502cf9-df28-4698-897d-8e2ce90910bb.png">
+
+Adicional, puedes editar el nombre del reporte para que sea más fácil identificarlo<br>
+
 <img width="520" alt="image" src="https://user-images.githubusercontent.com/94467952/218554684-2e660fa8-30ee-4ac6-a9cf-78c6d4a646de.png">
 <br> <br>
 Después de haber creado el reporte, es momento de agregar los gastos para que te sean reembolsados. <br>
