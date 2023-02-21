@@ -171,7 +171,7 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 ## IV. Guidelines de Facturación y Expensify
 <b>FACTURACIÓN</b> <br>
 Para obtener la factura en el sitio del cual se hizo el consumo se deben de agregar los siguientes datos. <br>
-&nbsp;&nbsp;&nbsp; Wizeline S de RL de CV / Wizeline (si la facturación es 4.0 solo es necesario el nombre de la empresa) <br> 
+&nbsp;&nbsp;&nbsp; Wizeline S de RL de CV / Wizeline (si la facturación es 4.0 sólo es necesario el nombre de la empresa) <br> 
 &nbsp;&nbsp;&nbsp; WIZ1401312V2 <br>
 &nbsp;&nbsp;&nbsp; Calle Amado Nervo #2200 Int. 401, 501 y 601 Col. Ciudad del Sol <br>
 &nbsp;&nbsp;&nbsp; CP 45050 <br>
