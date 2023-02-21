@@ -188,7 +188,7 @@ Después de hacer log in, creas un nuevo reporte para poner los gastos que quier
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/94467952/218605154-f19f977c-e3e3-48ba-84ef-53ee11241ec7.png"> <img width="120" alt="image" src="https://user-images.githubusercontent.com/94467952/218605288-e5bd8a5d-a517-4ceb-a942-da3a9956150e.png"> <br>
 
-Al crear el reporte debes asignarlo al customer que se ve en la imagen y al departamento de Academy. 
+Al crear el reporte, debes asignarlo al customer que se ve en la imagen y al departamento de Academy. 
 Es vital que eligas el "customer" correcto del proyecto de BAZ: **"Baz Super App - Academy - BAZ Level Up Program-Project_MX"** 
 
 
