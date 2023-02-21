@@ -205,7 +205,7 @@ Después de haber creado el reporte, es momento de agregar los gastos para que t
 En la parte de Add Expenses to Report haz clic en New Expense, un modal para ingresar la información de tus facturas aparecerá <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218772216-58f18890-7212-4f61-828a-d32d6091bd77.png"> <br>
 
-En un pincipio el modal se verá así, la idea es llenar todos los campos, recuerda <b> ajustar las fechas </b> ya que éstas vienen en default con el día en que se abre el reporte y los gastos puede que sean pasados. <br>
+En un principio, el modal se verá así, la idea es llenar todos los campos, recuerda <b> ajustar las fechas </b> ya que éstas vienen en default con el día en que se abre el reporte y los gastos puede que sean pasados. <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218772580-c1b54f17-adb7-476d-b702-5fed5792053e.png"> <br>
 
 Después de subir todas las facturas, sólo es necesario dar clic en submit, el approver será tu manager, es necesario agregar también a Vanesa DLA como copia <br>
