@@ -178,9 +178,9 @@ Para obtener la factura en el sitio del cual se hizo el consumo se deben de agre
 &nbsp;&nbsp;&nbsp; Zapopan, Jalisco <br>
 En el apartado de correo recuerda que es la dirección a la cual enviarán el PDF y XML. <br>
 
-Una vez que tengas tus facturas por favor registra todos tus gastos en este [archivo](https://docs.google.com/spreadsheets/d/1YUwDTqpXLzQSAMlI58AN9l2zrDS7nO6RByrWilxpuio/edit#gid=195526238), busca la pestaña correspondiente a la semana que viajaste.
+Una vez que tengas tus facturas, por favor registra todos tus gastos en este [archivo](https://docs.google.com/spreadsheets/d/1YUwDTqpXLzQSAMlI58AN9l2zrDS7nO6RByrWilxpuio/edit#gid=195526238), busca la pestaña correspondiente a la semana que viajaste.
 
-Despues de registrarlos, puedes solicitar tu reembolso e ingresar los gastos a [Expensify](https://www.expensify.com/), este debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome) sino aparece en OKTA es necesario levantar un ticket con [IT Service Management](https://wizeline.atlassian.net/servicedesk/customer/portal/8)
+Después de registrarlos, puedes solicitar tu reembolso e ingresar los gastos a [Expensify](https://www.expensify.com/), éste debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome) si no aparece en OKTA, es necesario levantar un ticket con [IT Service Management](https://wizeline.atlassian.net/servicedesk/customer/portal/8)
 
 <img width="600" alt="OKTA apps" src="https://user-images.githubusercontent.com/94467952/218534318-ba7a27ff-5375-4dbf-963b-c0696bb7ae80.png">
 
@@ -188,7 +188,7 @@ Después de hacer log in, creas un nuevo reporte para poner los gastos que quier
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/94467952/218605154-f19f977c-e3e3-48ba-84ef-53ee11241ec7.png"> <img width="120" alt="image" src="https://user-images.githubusercontent.com/94467952/218605288-e5bd8a5d-a517-4ceb-a942-da3a9956150e.png"> <br>
 
-Al crear el reporte deberás asignarlo al customer que se ve en la imagen y al departamento de Academy. 
+Al crear el reporte debes asignarlo al customer que se ve en la imagen y al departamento de Academy. 
 Es vital que eligas el "customer" correcto del proyecto de BAZ: **"Baz Super App - Academy - BAZ Level Up Program-Project_MX"** 
 
 
@@ -205,28 +205,28 @@ Después de haber creado el reporte, es momento de agregar los gastos para que t
 En la parte de Add Expenses to Report haz clic en New Expense, un modal para ingresar la información de tus facturas aparecerá <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218772216-58f18890-7212-4f61-828a-d32d6091bd77.png"> <br>
 
-En un pincipio el modal se verá así, la idea es llenar todos los campos, recuerda <b> ajustar las fechas </b> ya que estas vienen en default con el día en que se abre el reporte y los gastos puede que sean pasados. <br>
+En un pincipio el modal se verá así, la idea es llenar todos los campos, recuerda <b> ajustar las fechas </b> ya que éstas vienen en default con el día en que se abre el reporte y los gastos puede que sean pasados. <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218772580-c1b54f17-adb7-476d-b702-5fed5792053e.png"> <br>
 
-Después subir todas las facturas, soloes necesario dar clic en submit, en approver será tu manager, es necesario también agregar a Vanesa DLA como copia <br>
+Después de subir todas las facturas, sólo es necesario dar clic en submit, el approver será tu manager, es necesario agregar también a Vanesa DLA como copia <br>
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/94467952/219431177-fbe85d84-b445-4c4b-8d71-3f890ed79577.png"> <br>
  
-Los gastos serán reembolsados la quincena proxima a que se hizo el reporte. <br>
+Los gastos serán reembolsados la quincena próxima a que se hizo el reporte. <br>
 
-Finalmente, es indispensable llenar el spreadsheets de [Control de Gastos BAZ DSA - Bloque 3](https://docs.google.com/spreadsheets/d/1YUwDTqpXLzQSAMlI58AN9l2zrDS7nO6RByrWilxpuio/edit?usp=sharing) que llevamos internamente. Por favor toma en cuenta la semana en la que viajaste ya que hay diferentes pestañas para cada semana <br>
+Finalmente, es indispensable llenar el spreadsheet de [Control de Gastos BAZ DSA - Bloque 3](https://docs.google.com/spreadsheets/d/1YUwDTqpXLzQSAMlI58AN9l2zrDS7nO6RByrWilxpuio/edit?usp=sharing) que llevamos internamente. Por favor, toma en cuenta la semana en la que viajaste, ya que hay diferentes pestañas para cada semana <br>
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/94467952/219431745-38477373-3c98-4ef9-8782-cd13c30b2774.png">
 
         
 <b> FAQ </b>
-* Puedo borrar un reporte si es necesario? <br>
-Si!, solo seleccionalo y se habilitarán opciones en las cuales podrás elegir la opción de borrar
+* ¿Puedo borrar un reporte si es necesario? <br>
+¡Si!, sólo seleccionalo y se habilitarán opciones en las cuales podrás elegir la opción de borrar
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218769997-cf6586ef-8d20-4786-b271-aab591d80ff5.png">
 
-* El Merchant del cual obtuve una factura no esta disponible en el listado, qué hago? <br>
-Que no cunda el pánico! Se puede agregar de forma manual, just type in :) <br>
+* El Merchant del cual obtuve una factura no esta disponible en el listado, ¿qué hago? <br>
+¡Que no cunda el pánico! Se puede agregar de forma manual, just type in :) <br>
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/94467952/218774690-295c246e-874a-4dba-bfcc-8aebac8980e4.png">
 
 <b> TROUBLESHOOT
-* Necesito la constancia de Situacion Fiscal de Wizeline, de dónde la saco?
-Aqui esta! [Constancia noviembre 22 (4).pdf](https://github.com/wizelineacademy/BAZ-SMEs-Guidelines/files/10745552/Constancia.noviembre.22.4.pdf)
+* Necesito la constancia de Situacion Fiscal de Wizeline, ¿de dónde la saco?
+¡Aquí está! [Constancia noviembre 22 (4).pdf](https://github.com/wizelineacademy/BAZ-SMEs-Guidelines/files/10745552/Constancia.noviembre.22.4.pdf)
 
