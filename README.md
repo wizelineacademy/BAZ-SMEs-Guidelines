@@ -143,7 +143,7 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 | Android Bloque 1   | [Android Bloque 2]| [Android Bloque 3] |  [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdewV8VPyE-9lcGjWSFE7VJvVKZWkhy8t0oV94_0v404sQbYg/viewform?usp=share_link)     |
 | iOS Bloque 1       | [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSe3XW5ZVXEW-dX8jvXyqJpJpWcyQJDSgmRep3H3aXm64fMLwA/viewform?usp=share_link)     |
 | Java Bloque 1| Java Bloque 2| [Java Bloque 3]|  [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSchkQriwtr077QS2nKG7ZOO9g39yPeZN7IuDJ5RxtfbNow4Aw/viewform?usp=share_link)     |
-| QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA Bloque 4]((https://docs.google.com/forms/d/e/1FAIpQLSfUQRNGaj_HjLswUg6p2hk6UeHgvKw21g1_tqCiUH9LUi4vpA/viewform?usp=share_link)     |
+| QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA Bloque 4(https://docs.google.com/forms/d/e/1FAIpQLSfUQRNGaj_HjLswUg6p2hk6UeHgvKw21g1_tqCiUH9LUi4vpA/viewform?usp=share_link)     |
 | NA| NA| [NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdCh5nB-tcidwTDjK-32ZibnuWqEGiqjbeFTnwcyiKZk08alg/viewform?usp=share_link)   |
 
 **Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a Academy y espera respuesta de tu estudiante para reagendar.
