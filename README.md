@@ -119,10 +119,11 @@ Tu apoyo es vital para llenar la información que te corresponde de acuerdo a tu
 Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir cómo va el curso y la experiencia del estudiante para poder realizar ajustes a tiempo, de ser necesario.
 Se utilizará el mismo formato por programa, durante todos los bloques (sólo se van actualizando las fechas de las semanas).
 
-- [Android](https://forms.gle/oZn8PXKbw3BJT5Fs6)
-- [iOS](https://forms.gle/CtwNHjt89rhzYv8o7)
-- [Java](https://forms.gle/BYiP37hMWfLPPfif8)
-- [QA](https://forms.gle/31Z7vw9VdE2qogRk8)
+- [Android](https://docs.google.com/forms/d/e/1FAIpQLSdyJw4JNzKo1cTGaXi7Mt0AYWE7173bajxICkeps3I-py7A8Q/viewform?usp=share_link)
+- [iOS](https://docs.google.com/forms/d/e/1FAIpQLSf4vaiSJd6tIDh2hNeMxUL0_ztNEKVOMotvE2IQ5ZtaLvTHGg/viewform?usp=share_link)
+- [Java](https://docs.google.com/forms/d/e/1FAIpQLSdLjuyd_s3ceUrydKi7EC6SlPoeg_UqdgGhd2bzp2aoMBZE6A/viewform?usp=share_link)
+- [QA](https://docs.google.com/forms/d/e/1FAIpQLSelSftgblssMxjMlR12tfyanb0bT3hFRQ527G9IEDPjhtzZoA/viewform?usp=share_link)
+- [NodeJS](https://docs.google.com/forms/d/e/1FAIpQLSfI1x3ZsSUAgEFYcLrNcWgTFjDZBR4aL8sFkh8Xb5WCT4Ez-g/viewform?usp=share_link)
 
 ## Formatos para Mentoría
 Tanto el estudiante como el mentor deben llenar el formato correspondiente para validar sus mentorías realizadas.
@@ -130,18 +131,20 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 ### Formato para el estudiante
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| Android Bloque 1| [Android Bloque 2] | [Android Bloque 3](https://forms.gle/Jj42tjQNr9HfMQpVA) |  [Android Bloque 4].     |
-| iOS Bloque 1| [iOS Bloque 2]| [iOS Bloque 3](https://forms.gle/NkNGgGdLgameU94R8) |  [iOS Bloque 4].     |
-| Java Bloque 1| [Java Bloque 2](| [Java Bloque 3](https://forms.gle/CdLK83qdbv38keZW7) |  [Java Bloque 4].     |
-| QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Bloque 3](https://forms.gle/DJ4KnVUHQGk99FYF6)|  [QA Bloque 4].     |
+| Android Bloque 1| [Android Bloque 2] | [Android Bloque 3] |  [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSd9NLJRbnjTh_h2CIXvYWM-WYiRpPZgV0R_DCqdqd2NWezvCA/viewform?usp=share_link)     |
+| iOS Bloque 1| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdX6-qORxrLetxaBMWpSKUmNVpkyK4YTnsfi25wL0_FKyg7KQ/viewform?usp=share_link)     |
+| Java Bloque 1| [Java Bloque 2](|  |  [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSc3D_qp-40pgfpFogYBWgA-lZWMvYCZsBh9WAbXVRpRIiKqQw/viewform?usp=share_link)     |
+| QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLScVrpLFOIc_JVmMeOvHsPIxeyOWwv7o5BHuNwDhyYvPq7vusA/viewform?usp=share_link)     |
+| NA| NA]| NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfTLvI1WvkKFJeANEEDwaO82D3M-U4eKWghBWhlnFhHS1-s2w/viewform?usp=share_link)     |
 
 ### Formato para el mentor
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| Android Bloque 1   | [Android Bloque 2]| [Android Bloque 3](https://forms.gle/vxSCThhzYVfXmRCt9) |  [Android Bloque 4].     |
-| iOS Bloque 1       | [iOS Bloque 2]| [iOS Bloque 3](https://forms.gle/hA2hTbJynjiCDCgb6) |  [iOS Bloque 4].     |
-| Java Bloque 1| Java Bloque 2| [Java Bloque 3](https://forms.gle/cg8UPQjcxVVBotJUA)|  [Java Bloque 4].     |
-| QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Bloque 3](https://forms.gle/99V6SZpWYhDmDkv59)|  [QA Bloque 4].     |
+| Android Bloque 1   | [Android Bloque 2]| [Android Bloque 3] |  [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdewV8VPyE-9lcGjWSFE7VJvVKZWkhy8t0oV94_0v404sQbYg/viewform?usp=share_link)     |
+| iOS Bloque 1       | [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSe3XW5ZVXEW-dX8jvXyqJpJpWcyQJDSgmRep3H3aXm64fMLwA/viewform?usp=share_link)     |
+| Java Bloque 1| Java Bloque 2| [Java Bloque 3]|  [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSchkQriwtr077QS2nKG7ZOO9g39yPeZN7IuDJ5RxtfbNow4Aw/viewform?usp=share_link)     |
+| QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA Bloque 4]((https://docs.google.com/forms/d/e/1FAIpQLSfUQRNGaj_HjLswUg6p2hk6UeHgvKw21g1_tqCiUH9LUi4vpA/viewform?usp=share_link))     |
+| NA| NA| [NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdCh5nB-tcidwTDjK-32ZibnuWqEGiqjbeFTnwcyiKZk08alg/viewform?usp=share_link)   |
 
 **Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a Academy y espera respuesta de tu estudiante para reagendar.
 Sólo es necesario registrar las mentorías hechas y son las que se consideran para bono.
