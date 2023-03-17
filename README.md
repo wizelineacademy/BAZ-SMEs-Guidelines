@@ -146,7 +146,7 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 | QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA - Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfUQRNGaj_HjLswUg6p2hk6UeHgvKw21g1_tqCiUH9LUi4vpA/viewform?usp=share_link)|
 | NA| NA| [NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdCh5nB-tcidwTDjK-32ZibnuWqEGiqjbeFTnwcyiKZk08alg/viewform?usp=share_link)   |
 
-**Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a Academy y espera respuesta de tu estudiante para reagendar.
+**Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a DSA y espera respuesta de tu estudiante para reagendar.
 Sólo es necesario registrar las mentorías hechas y son las que se consideran para bono.
 
 
