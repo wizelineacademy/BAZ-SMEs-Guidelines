@@ -154,8 +154,8 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3](https://forms.gle/BvyEJh2ceGRC9mom6) |  [Android Bloque 4].     |
-| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3](https://forms.gle/KSWP6hpxQZ7dDb1L7) |  [iOS Bloque 4].     |
+| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3] |  [Android Bloque 4].     |
+| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3]) |  [iOS Bloque 4].     |
 | Java Bloque 1 Scorecard en Master File    | Java Bloque 2 Scorecard en Master File   | Java Bloque 3 Scorecard en Master File  |  [Java Bloque 4].     |
 | Scorecard en Master File    | Scorecard en Master File | [QA Bloque 3]() |  [QA Bloque 4].     |
 
@@ -163,10 +163,10 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 ## Git del alumno
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3](https://github.com/wizelineacademy/BAZANDROID3-2023) |  [Android Bloque 4].     |
-| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3](https://github.com/wizelineacademy/BAZiOS3-2023) |  [iOS Bloque 4]. 
-| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3](https://github.com/wizelineacademy/BAZJAVA3-2023) |  [Java Bloque 4].     |
-| [QA Grupo 1 y Grupo2]| [QA Grupo 3]| [QA - Automation Bloque 3](https://github.com/wizelineacademy/BAZQA-AUTOMATION-2023)|  [QA Bloque 4].     ||
+| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3]) |  [Android Bloque 4]()     |
+| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4]() 
+| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3] |  [Java Bloque 4]()     |
+| [QA Grupo 1 y Grupo2]| [QA Grupo 3]| [QA - Automation Bloque 3])|  [QA Bloque 4]()     |
 
 
 
