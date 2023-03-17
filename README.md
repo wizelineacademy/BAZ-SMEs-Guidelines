@@ -134,7 +134,7 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 | Android Bloque 1| [Android Bloque 2] | [Android Bloque 3] |  [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSd9NLJRbnjTh_h2CIXvYWM-WYiRpPZgV0R_DCqdqd2NWezvCA/viewform?usp=share_link)     |
 | iOS Bloque 1| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdX6-qORxrLetxaBMWpSKUmNVpkyK4YTnsfi25wL0_FKyg7KQ/viewform?usp=share_link)     |
 | Java Bloque 1| [Java Bloque 2](|  |  [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSc3D_qp-40pgfpFogYBWgA-lZWMvYCZsBh9WAbXVRpRIiKqQw/viewform?usp=share_link)     |
-| QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA Bloque 4(https://docs.google.com/forms/d/e/1FAIpQLScVrpLFOIc_JVmMeOvHsPIxeyOWwv7o5BHuNwDhyYvPq7vusA/viewform?usp=share_link)     |
+| QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLScVrpLFOIc_JVmMeOvHsPIxeyOWwv7o5BHuNwDhyYvPq7vusA/viewform?usp=share_link)     |
 | NA| NA]| NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfTLvI1WvkKFJeANEEDwaO82D3M-U4eKWghBWhlnFhHS1-s2w/viewform?usp=share_link)     |
 
 ### Formato para el mentor
