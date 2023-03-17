@@ -37,7 +37,6 @@ Es el "Subject Matter Expert" de apoyo para DSA.
 - Está asignado durante todo el proyecto.
 
 **Lead SME's**
-- QA: Carlos Veloz (carlos.veloz@wizeline.com) Luis Galaz(luis.galaz@wizeline.com)
 - iOS: Abner Castro (abner.castro@wizeline.com)
        Jorge Benavides (jorge.benavides@wizeline.com)
 - Android: Diego Medina (diego.medina@wizeline.com)
@@ -110,11 +109,11 @@ Tu apoyo es vital para llenar la información que te corresponde de acuerdo a tu
 ### Ligas a Master File por programa y bloque
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3](https://docs.google.com/spreadsheets/d/18Guegdcyq-2rs19rvD10at4XzeictWTDI-YMhPqPHAw/edit?usp=sharing) |  [Android Bloque 4].     |
-| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3](https://docs.google.com/spreadsheets/d/1jkNVp3M8ww6YCOxPxMnJQL9lTHtsRBgEVZArcCZo3CY/edit?usp=sharing) |  [iOS Bloque 4].     |
-| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3](https://docs.google.com/spreadsheets/d/1pXDpGXFwilzdmDVi2UjMcyRK-FH_5SOVsdDjx34PuFI/edit?usp=sharing) |  [Java Bloque 4].     |
-| [QA Bloque 1]| [QA Bloque 2]| [QA Bloque 3](https://docs.google.com/spreadsheets/d/1nFPKcPd7LGOJQ3ww5KLtCDBeFmNjMIDjkjQx96W5kyY/edit?usp=sharing)|  [QA Bloque 4].     |
-
+| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3]|  [Android Bloque 4](https://docs.google.com/spreadsheets/d/1tgDo5yIpDo0CKQgeclEYCc65z6EG4auu5-OZVJb56jo/edit?usp=sharing)     |
+| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/spreadsheets/d/1ugI_6G8kFoGLxwN8dbHRjtdqs3nAFGQgvTnqBlHCHjo/edit?usp=sharing)     |
+| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3] |  [Java Bloque 4](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)     |
+| [QA Bloque 1]| [QA Bloque 2]| [QA Bloque 3]|  [QA Bloque 4](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)     |
+| [NodeJS Bloque 4](https://docs.google.com/spreadsheets/d/1wynm-thrbYM35Udafy-zM2MMMdeM1UkKpuZCZUN5PHM/edit?usp=sharing)     |
 
 ## Formatos de Retroalimentación de clase
 Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir cómo va el curso y la experiencia del estudiante para poder realizar ajustes a tiempo, de ser necesario.
