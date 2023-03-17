@@ -135,7 +135,7 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 | iOS Bloque 1| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdX6-qORxrLetxaBMWpSKUmNVpkyK4YTnsfi25wL0_FKyg7KQ/viewform?usp=share_link)     |
 | Java Bloque 1| [Java Bloque 2](|  |  [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSc3D_qp-40pgfpFogYBWgA-lZWMvYCZsBh9WAbXVRpRIiKqQw/viewform?usp=share_link)     |
 | QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLScVrpLFOIc_JVmMeOvHsPIxeyOWwv7o5BHuNwDhyYvPq7vusA/viewform?usp=share_link)     |
-| NA| NA]| NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfTLvI1WvkKFJeANEEDwaO82D3M-U4eKWghBWhlnFhHS1-s2w/viewform?usp=share_link)     |
+| NA| NA| NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfTLvI1WvkKFJeANEEDwaO82D3M-U4eKWghBWhlnFhHS1-s2w/viewform?usp=share_link)     |
 
 ### Formato para el mentor
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
@@ -144,7 +144,7 @@ Tanto el estudiante como el mentor deben llenar el formato correspondiente para 
 | iOS Bloque 1       | [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSe3XW5ZVXEW-dX8jvXyqJpJpWcyQJDSgmRep3H3aXm64fMLwA/viewform?usp=share_link)     |
 | Java Bloque 1| Java Bloque 2| [Java Bloque 3]|  [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSchkQriwtr077QS2nKG7ZOO9g39yPeZN7IuDJ5RxtfbNow4Aw/viewform?usp=share_link)     |
 | QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA - Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfUQRNGaj_HjLswUg6p2hk6UeHgvKw21g1_tqCiUH9LUi4vpA/viewform?usp=share_link)|
-| NA| NA| [NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdCh5nB-tcidwTDjK-32ZibnuWqEGiqjbeFTnwcyiKZk08alg/viewform?usp=share_link)   |
+| NA| NA| NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdCh5nB-tcidwTDjK-32ZibnuWqEGiqjbeFTnwcyiKZk08alg/viewform?usp=share_link)   |
 
 **Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a DSA y espera respuesta de tu estudiante para reagendar.
 Sólo es necesario registrar las mentorías hechas y son las que se consideran para bono.
@@ -163,10 +163,11 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 ## Git del alumno
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3]) |  [Android Bloque 4]()     |
-| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4]() 
-| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3] |  [Java Bloque 4]()     |
-| [QA Grupo 1 y Grupo2]| [QA Grupo 3]| [QA - Automation Bloque 3])|  [QA Bloque 4]()     |
+| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3]) |  [Android Bloque 4](https://github.com/wizelineacademy/BAZANDROID4-2023)     |
+| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://github.com/wizelineacademy/BAZiOS4-2023) 
+| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3] |  [Java Bloque 4](https://github.com/wizelineacademy/BAZJAVA4-2023)     |
+| [QA Grupo 1 y Grupo2]| [QA Grupo 3]| [QA - Automation Bloque 3])|  [QA Bloque 4](https://github.com/wizelineacademy/BAZQA4-2023)     |
+| [NodeJS Bloque 1]  | [NodeJS Bloque 2]| [NodeJS Bloque 3])|  [NodeJS Bloque 4](https://github.com/wizelineacademy/BAZNODE4-2023)     |
 
 
 
