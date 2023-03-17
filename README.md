@@ -90,7 +90,7 @@ Este documento cuenta con la información de:
 - [iOS](https://docs.google.com/spreadsheets/d/1R15Q-hEaYJIfwNQ0J9ruVV8n_2-qqRAPcjsRtjx_AD8/edit#gid=0)
 - [Java](https://docs.google.com/spreadsheets/d/10bewyL78kTUNiITTDytD0RAytZpUIginUv8_YE2K5BY/edit#gid=2060191091)
 - [QA](https://docs.google.com/spreadsheets/d/1VGSv_v3dH5fxoRiSo64oTcrJ8vIaF2Nm7_gaksfOX44/edit#gid=470006489)
-
+- [Node](https://docs.google.com/spreadsheets/d/1Ju6MbHkRXhXBqGhrvnAdi6XDWgACpxPwZUnNBs9mJ7U/edit#gid=2088418994)
 
 ## Candidates Master File
 Es el archivo donde DSA concentra toda la información relevante al curso, que es compartida con el cliente. Es de suma importancia mantenerla al día, ya que, esta información se utiliza para toma de decisiciones, planes de acción/reacción.
@@ -113,7 +113,7 @@ Tu apoyo es vital para llenar la información que te corresponde de acuerdo a tu
 | [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/spreadsheets/d/1ugI_6G8kFoGLxwN8dbHRjtdqs3nAFGQgvTnqBlHCHjo/edit?usp=sharing)     |
 | [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3] |  [Java Bloque 4](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)     |
 | [QA Bloque 1]| [QA Bloque 2]| [QA Bloque 3]|  [QA Bloque 4](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)     |
-| [NodeJS Bloque 4](https://docs.google.com/spreadsheets/d/1wynm-thrbYM35Udafy-zM2MMMdeM1UkKpuZCZUN5PHM/edit?usp=sharing)     |
+| [NA]| [NA]| [NA]| [NodeJS Bloque 4](https://docs.google.com/spreadsheets/d/1wynm-thrbYM35Udafy-zM2MMMdeM1UkKpuZCZUN5PHM/edit?usp=sharing)     |
 
 ## Formatos de Retroalimentación de clase
 Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir cómo va el curso y la experiencia del estudiante para poder realizar ajustes a tiempo, de ser necesario.
