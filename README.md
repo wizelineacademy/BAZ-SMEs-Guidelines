@@ -155,7 +155,7 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 | Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
 |----------------------|------------------------|-------------------------|-----------------------|
 | [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3] |  [Android Bloque 4].     |
-| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3]) |  [iOS Bloque 4].     |
+| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3]) |  [iOS Bloque 4](https://forms.gle/motHxBS5pzaH42EQ9)     |
 | Java Bloque 1 Scorecard en Master File    | Java Bloque 2 Scorecard en Master File   | Java Bloque 3 Scorecard en Master File  |  [Java Bloque 4].     |
 | Scorecard en Master File    | Scorecard en Master File | [QA Bloque 3] |  [QA Bloque 4].     |
 
