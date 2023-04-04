@@ -107,13 +107,12 @@ Tu apoyo es vital para llenar la información que te corresponde de acuerdo a tu
 - **Mentores**: Se lleva la suma y registro por mentor de estudiantes asignados, mentorías, revisión de entregables.
 
 ### Ligas a Master File por programa y bloque
-| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
-|----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3]|  [Android Bloque 4](https://docs.google.com/spreadsheets/d/1tgDo5yIpDo0CKQgeclEYCc65z6EG4auu5-OZVJb56jo/edit?usp=sharing)     |
-| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/spreadsheets/d/1ugI_6G8kFoGLxwN8dbHRjtdqs3nAFGQgvTnqBlHCHjo/edit?usp=sharing)     |
-| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3] |  [Java Bloque 4](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)     |
-| [QA Bloque 1]| [QA Bloque 2]| [QA Bloque 3]|  [QA Bloque 4](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)     |
-| [NA]| [NA]| [NA]| [NodeJS Bloque 4](https://docs.google.com/spreadsheets/d/1wynm-thrbYM35Udafy-zM2MMMdeM1UkKpuZCZUN5PHM/edit?usp=sharing)     |
+
+[Android Bloque 4](https://docs.google.com/spreadsheets/d/1tgDo5yIpDo0CKQgeclEYCc65z6EG4auu5-OZVJb56jo/edit?usp=sharing)
+[iOS Bloque 4](https://docs.google.com/spreadsheets/d/1ugI_6G8kFoGLxwN8dbHRjtdqs3nAFGQgvTnqBlHCHjo/edit?usp=sharing)
+[Java Bloque 4](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)
+[QA Bloque 4](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)
+[NodeJS Bloque 4](https://docs.google.com/spreadsheets/d/1wynm-thrbYM35Udafy-zM2MMMdeM1UkKpuZCZUN5PHM/edit?usp=sharing)
 
 ## Formatos de Retroalimentación de clase
 Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir cómo va el curso y la experiencia del estudiante para poder realizar ajustes a tiempo, de ser necesario.
