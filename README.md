@@ -108,11 +108,11 @@ Tu apoyo es vital para llenar la información que te corresponde de acuerdo a tu
 
 ### Ligas a Master File por programa y bloque
 
-[Android Bloque 4](https://docs.google.com/spreadsheets/d/1tgDo5yIpDo0CKQgeclEYCc65z6EG4auu5-OZVJb56jo/edit?usp=sharing)
-[iOS Bloque 4](https://docs.google.com/spreadsheets/d/1ugI_6G8kFoGLxwN8dbHRjtdqs3nAFGQgvTnqBlHCHjo/edit?usp=sharing)
-[Java Bloque 4](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)
-[QA Bloque 4](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)
-[NodeJS Bloque 4](https://docs.google.com/spreadsheets/d/1wynm-thrbYM35Udafy-zM2MMMdeM1UkKpuZCZUN5PHM/edit?usp=sharing)
+- [Android Bloque 4](https://docs.google.com/spreadsheets/d/1tgDo5yIpDo0CKQgeclEYCc65z6EG4auu5-OZVJb56jo/edit?usp=sharing)
+- [iOS Bloque 4](https://docs.google.com/spreadsheets/d/1ugI_6G8kFoGLxwN8dbHRjtdqs3nAFGQgvTnqBlHCHjo/edit?usp=sharing)
+- [Java Bloque 4](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)
+- [QA Bloque 4](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)
+- [NodeJS Bloque 4](https://docs.google.com/spreadsheets/d/1wynm-thrbYM35Udafy-zM2MMMdeM1UkKpuZCZUN5PHM/edit?usp=sharing)
 
 ## Formatos de Retroalimentación de clase
 Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir cómo va el curso y la experiencia del estudiante para poder realizar ajustes a tiempo, de ser necesario.
@@ -128,22 +128,18 @@ Se utilizará el mismo formato por programa, durante todos los bloques (sólo se
 Tanto el estudiante como el mentor deben llenar el formato correspondiente para validar sus mentorías realizadas.
 
 ### Formato para el estudiante
-| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
-|----------------------|------------------------|-------------------------|-----------------------|
-| Android Bloque 1| [Android Bloque 2] | [Android Bloque 3] |  [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSd9NLJRbnjTh_h2CIXvYWM-WYiRpPZgV0R_DCqdqd2NWezvCA/viewform?usp=share_link)     |
-| iOS Bloque 1| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdX6-qORxrLetxaBMWpSKUmNVpkyK4YTnsfi25wL0_FKyg7KQ/viewform?usp=share_link)     |
-| Java Bloque 1| [Java Bloque 2](|  |  [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSc3D_qp-40pgfpFogYBWgA-lZWMvYCZsBh9WAbXVRpRIiKqQw/viewform?usp=share_link)     |
-| QA Grupo 1| QA Grupo 2 - [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLScVrpLFOIc_JVmMeOvHsPIxeyOWwv7o5BHuNwDhyYvPq7vusA/viewform?usp=share_link)     |
-| NA| NA| NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfTLvI1WvkKFJeANEEDwaO82D3M-U4eKWghBWhlnFhHS1-s2w/viewform?usp=share_link)     |
+- [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSd9NLJRbnjTh_h2CIXvYWM-WYiRpPZgV0R_DCqdqd2NWezvCA/viewform?usp=share_link)
+- [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdX6-qORxrLetxaBMWpSKUmNVpkyK4YTnsfi25wL0_FKyg7KQ/viewform?usp=share_link)
+- [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSc3D_qp-40pgfpFogYBWgA-lZWMvYCZsBh9WAbXVRpRIiKqQw/viewform?usp=share_link)
+- [QA Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLScVrpLFOIc_JVmMeOvHsPIxeyOWwv7o5BHuNwDhyYvPq7vusA/viewform?usp=share_link)
+- [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfTLvI1WvkKFJeANEEDwaO82D3M-U4eKWghBWhlnFhHS1-s2w/viewform?usp=share_link)
 
 ### Formato para el mentor
-| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
-|----------------------|------------------------|-------------------------|-----------------------|
-| Android Bloque 1   | [Android Bloque 2]| [Android Bloque 3] |  [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdewV8VPyE-9lcGjWSFE7VJvVKZWkhy8t0oV94_0v404sQbYg/viewform?usp=share_link)     |
-| iOS Bloque 1       | [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSe3XW5ZVXEW-dX8jvXyqJpJpWcyQJDSgmRep3H3aXm64fMLwA/viewform?usp=share_link)     |
-| Java Bloque 1| Java Bloque 2| [Java Bloque 3]|  [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSchkQriwtr077QS2nKG7ZOO9g39yPeZN7IuDJ5RxtfbNow4Aw/viewform?usp=share_link)     |
-| QA Grupo 1| QA Grupo 2- [QA Grupo 3]| [QA - Automation Bloque 3]|  [QA - Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfUQRNGaj_HjLswUg6p2hk6UeHgvKw21g1_tqCiUH9LUi4vpA/viewform?usp=share_link)|
-| NA| NA| NA|  [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdCh5nB-tcidwTDjK-32ZibnuWqEGiqjbeFTnwcyiKZk08alg/viewform?usp=share_link)   |
+- [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdewV8VPyE-9lcGjWSFE7VJvVKZWkhy8t0oV94_0v404sQbYg/viewform?usp=share_link)
+- [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSe3XW5ZVXEW-dX8jvXyqJpJpWcyQJDSgmRep3H3aXm64fMLwA/viewform?usp=share_link)
+- [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSchkQriwtr077QS2nKG7ZOO9g39yPeZN7IuDJ5RxtfbNow4Aw/viewform?usp=share_link)
+- [QA - Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfUQRNGaj_HjLswUg6p2hk6UeHgvKw21g1_tqCiUH9LUi4vpA/viewform?usp=share_link)
+- [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdCh5nB-tcidwTDjK-32ZibnuWqEGiqjbeFTnwcyiKZk08alg/viewform?usp=share_link)
 
 **Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a DSA y espera respuesta de tu estudiante para reagendar.
 Sólo es necesario registrar las mentorías hechas y son las que se consideran para bono.
@@ -151,22 +147,18 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 
 ## Scorecards
 
-| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
-|----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3] |  [Android Bloque 4](https://forms.gle/WRfbzfuUubUysAMq5)     |
-| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3]) |  [iOS Bloque 4](https://forms.gle/motHxBS5pzaH42EQ9)     |
-| Java Bloque 1 Scorecard en Master File    | Java Bloque 2 Scorecard en Master File   | Java Bloque 3 Scorecard en Master File  |  [Java Bloque 4 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)     |
-| Scorecard en Master File    | Scorecard en Master File | [QA Bloque 3] |  [QA Bloque 4 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)     |
+- [Android Bloque 4](https://forms.gle/WRfbzfuUubUysAMq5)
+- [iOS Bloque 4](https://forms.gle/motHxBS5pzaH42EQ9)
+- [Java Bloque 4 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)
+- [QA Bloque 4 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)
 
 
 ## Git del alumno
-| Bloque 1             | Bloque 2               |  Bloque 3               | Bloque 4              |
-|----------------------|------------------------|-------------------------|-----------------------|
-| [Android Bloque 1]| [Android Bloque 2]| [Android Bloque 3]) |  [Android Bloque 4](https://github.com/wizelineacademy/BAZANDROID4-2023)     |
-| [iOS Bloque 1]| [iOS Bloque 2]| [iOS Bloque 3] |  [iOS Bloque 4](https://github.com/wizelineacademy/BAZiOS4-2023) 
-| [Java Bloque 1]| [Java Bloque 2]| [Java Bloque 3] |  [Java Bloque 4](https://github.com/wizelineacademy/BAZJAVA4-2023)     |
-| [QA Grupo 1 y Grupo2]| [QA Grupo 3]| [QA - Automation Bloque 3])|  [QA Bloque 4](https://github.com/wizelineacademy/BAZQA4-2023)     |
-| [NodeJS Bloque 1]  | [NodeJS Bloque 2]| [NodeJS Bloque 3])|  [NodeJS Bloque 4](https://github.com/wizelineacademy/BAZNODE4-2023)     |
+- [Android Bloque 4](https://github.com/wizelineacademy/BAZANDROID4-2023)
+- [iOS Bloque 4](https://github.com/wizelineacademy/BAZiOS4-2023) 
+- [Java Bloque 4](https://github.com/wizelineacademy/BAZJAVA4-2023)
+- [QA Bloque 4](https://github.com/wizelineacademy/BAZQA4-2023)
+- [NodeJS Bloque 4](https://github.com/wizelineacademy/BAZNODE4-2023)
 
 
 
@@ -180,7 +172,7 @@ Para obtener la factura en el sitio del cual se hizo el consumo se deben de agre
 &nbsp;&nbsp;&nbsp; Zapopan, Jalisco <br>
 En el apartado de correo recuerda que es la dirección a la cual enviarán el PDF y XML. <br>
 
-Una vez que tengas tus facturas, por favor registra todos tus gastos en este [archivo](https://docs.google.com/spreadsheets/d/15nVZtcl3eRH-VHGuykK1Gf3IpSFP22_1720Thk1al0M/edit?usp=sharing), busca la pestaña correspondiente a la semana que viajaste.
+Una vez que tengas tus facturas, por favor registra todos tus gastos en este [archivo](), busca la pestaña correspondiente a la semana que viajaste.
 
 Después de registrarlos, puedes solicitar tu reembolso e ingresar los gastos a [Expensify](https://www.expensify.com/), éste debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome) si no aparece en OKTA, es necesario levantar un ticket con [IT Service Management](https://wizeline.atlassian.net/servicedesk/customer/portal/8)
 
