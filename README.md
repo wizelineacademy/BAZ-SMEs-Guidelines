@@ -180,7 +180,7 @@ Para obtener la factura en el sitio del cual se hizo el consumo se deben de agre
 &nbsp;&nbsp;&nbsp; Zapopan, Jalisco <br>
 En el apartado de correo recuerda que es la dirección a la cual enviarán el PDF y XML. <br>
 
-Una vez que tengas tus facturas, por favor registra todos tus gastos en este [archivo](https://docs.google.com/spreadsheets/d/15nVZtcl3eRH-VHGuykK1Gf3IpSFP22_1720Thk1al0M/edit?usp=sharing), busca la pestaña correspondiente a la semana que viajaste.
+Una vez que tengas tus facturas, por favor registra todos tus gastos en este [archivo](), busca la pestaña correspondiente a la semana que viajaste.
 
 Después de registrarlos, puedes solicitar tu reembolso e ingresar los gastos a [Expensify](https://www.expensify.com/), éste debe de estar disponible como aplicación en [OKTA](https://wizeline.okta.com/app/UserHome) si no aparece en OKTA, es necesario levantar un ticket con [IT Service Management](https://wizeline.atlassian.net/servicedesk/customer/portal/8)
 
