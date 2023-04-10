@@ -147,7 +147,7 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 
 ## Scorecards
 
-- [Android Bloque 4](https://forms.gle/WRfbzfuUubUysAMq5)
+- [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdAsw3mJvILs3b1GXq8VPZU69sI9nO0f7xKX8K6x3C_xNm6gQ/viewform?usp=sf_link)
 - [iOS Bloque 4](https://forms.gle/motHxBS5pzaH42EQ9)
 - [Java Bloque 4 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)
 - [QA Bloque 4 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)
