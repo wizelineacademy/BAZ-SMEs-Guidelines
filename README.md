@@ -120,18 +120,16 @@ Se utilizará el mismo formato por programa, durante todos los bloques (sólo se
 Tanto el estudiante como el mentor deben llenar el formato correspondiente para validar sus mentorías realizadas.
 
 ### Formato para el estudiante
-- [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSd9NLJRbnjTh_h2CIXvYWM-WYiRpPZgV0R_DCqdqd2NWezvCA/viewform?usp=share_link)
-- [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdX6-qORxrLetxaBMWpSKUmNVpkyK4YTnsfi25wL0_FKyg7KQ/viewform?usp=share_link)
-- [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSc3D_qp-40pgfpFogYBWgA-lZWMvYCZsBh9WAbXVRpRIiKqQw/viewform?usp=share_link)
-- [QA Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLScVrpLFOIc_JVmMeOvHsPIxeyOWwv7o5BHuNwDhyYvPq7vusA/viewform?usp=share_link)
-- [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfTLvI1WvkKFJeANEEDwaO82D3M-U4eKWghBWhlnFhHS1-s2w/viewform?usp=share_link)
+- [Java Mid Bloque 5](https://forms.gle/reWrVoWVc7zfEmjRA)
+- [Java Senior Bloque 5](https://forms.gle/tLhJVqnjztT42GFY7)
+- [QA Bloque 5](https://forms.gle/eDQM5W3mRUGVgfqd7)
+- [NodeJS Bloque 5](https://forms.gle/bPYFB5enLN4Eoqem7)
 
 ### Formato para el mentor
-- [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdewV8VPyE-9lcGjWSFE7VJvVKZWkhy8t0oV94_0v404sQbYg/viewform?usp=share_link)
-- [iOS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSe3XW5ZVXEW-dX8jvXyqJpJpWcyQJDSgmRep3H3aXm64fMLwA/viewform?usp=share_link)
-- [Java Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSchkQriwtr077QS2nKG7ZOO9g39yPeZN7IuDJ5RxtfbNow4Aw/viewform?usp=share_link)
-- [QA - Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSfUQRNGaj_HjLswUg6p2hk6UeHgvKw21g1_tqCiUH9LUi4vpA/viewform?usp=share_link)
-- [NodeJS Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdCh5nB-tcidwTDjK-32ZibnuWqEGiqjbeFTnwcyiKZk08alg/viewform?usp=share_link)
+- [Java Mid Bloque 5](https://forms.gle/uNNvcnZE5LFUduUh8)
+- [Java Senior Bloque 5](https://forms.gle/4PkosJ68Qd6w7f3q7)
+- [QA Bloque 5](https://forms.gle/WpMLFUYaP2iv376R7)
+- [NodeJS Bloque 5](https://forms.gle/rtruXVQKDeyYQuTe6)
 
 **Nota**: Asegúrate de tener tu Calendly actualizado; si tu estudiante no se ha presentado a la sesión en los primeros 5 minutos, escríbele por Telegram y espera otros 5 minutos. Si no se presenta a los 10 minutos, desconéctate de la sesión, comunícalo a DSA y espera respuesta de tu estudiante para reagendar.
 Sólo es necesario registrar las mentorías hechas y son las que se consideran para bono.
@@ -139,19 +137,17 @@ Sólo es necesario registrar las mentorías hechas y son las que se consideran p
 
 ## Scorecards
 
-- [Android Bloque 4](https://docs.google.com/forms/d/e/1FAIpQLSdAsw3mJvILs3b1GXq8VPZU69sI9nO0f7xKX8K6x3C_xNm6gQ/viewform?usp=sf_link)
-- [iOS Bloque 4](https://forms.gle/motHxBS5pzaH42EQ9)
-- [Java Bloque 4 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)
-- [QA Bloque 4 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)
-
+- [Java Mid Bloque 5 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/1YYt61djJI-M9f0HttZ5Yn8DStMKx-NpNoCK5BVdRh8s/edit?usp=sharing)
+- [Java Senior Bloque 5 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/1J37JORRZxufkWep2b-N0OuYkhy4O-tJZJpi2qhS-aag/edit?usp=sharing)
+- [QA Bloque 5 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/1-8VcpueZc5Bm9VLrSz6BCGKo3O98oZx5Ly5jXKzMeLw/edit?usp=sharing)
+- [NodeJS Bloque 5 - Pestaña Scorecard](https://docs.google.com/spreadsheets/d/13VcPWor8k_CdKL1Kr-RCeHyrrEVa6keuXH19Kr80I74/edit?usp=sharing)
 
 ## Git del alumno
-- [Android Bloque 4](https://github.com/wizelineacademy/BAZANDROID4-2023)
-- [iOS Bloque 4](https://github.com/wizelineacademy/BAZiOS4-2023) 
-- [Java Bloque 4](https://github.com/wizelineacademy/BAZJAVA4-2023)
-- [QA Bloque 4](https://github.com/wizelineacademy/BAZQA4-2023)
-- [NodeJS Bloque 4](https://github.com/wizelineacademy/BAZNODE4-2023)
 
+- [Java Mid Bloque 5](https://github.com/wizelineacademy/BAZJAVAMID5-2023)
+- [Java Senior Bloque 5](https://github.com/wizelineacademy/BAZJAVASR5-2023)
+- [QA Bloque 5](https://github.com/wizelineacademy/BAZQA5-2023)
+- [NodeJS Bloque 5](https://github.com/wizelineacademy/BAZNODEINT5-2023)
 
 
 ## IV. Guidelines de Facturación y Expensify
