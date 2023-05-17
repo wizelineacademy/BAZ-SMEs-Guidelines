@@ -37,10 +37,6 @@ Es el "Subject Matter Expert" de apoyo para DSA.
 - Está asignado durante todo el proyecto.
 
 **Lead SME's**
-- iOS: Abner Castro (abner.castro@wizeline.com)
-       Jorge Benavides (jorge.benavides@wizeline.com)
-- Android: Diego Medina (diego.medina@wizeline.com)
-           Baltazar Rodríguez (baltazar.rodriguez@wizeline.com)
 - Java: Gerardo Fernández (gerardo.fernandez@wizeline.com)
 - Node: Carlos Goyeneche (carlos.goyeneche@wizeline.com)
 
@@ -86,8 +82,6 @@ Este documento cuenta con la información de:
 - Asignaciones por grupo/bloque: Pestaña "Asignaciones", en esta pestaña se registra la persona que cubrirá cada rol, fechas, horarios de cada curso.
 
 ### Ligas
-- [Android](https://docs.google.com/spreadsheets/d/1UAwHN6bcpHrcZMQOESNyH-7vCn3AM9_MdZajFt3l_7g/edit#gid=0)
-- [iOS](https://docs.google.com/spreadsheets/d/1R15Q-hEaYJIfwNQ0J9ruVV8n_2-qqRAPcjsRtjx_AD8/edit#gid=0)
 - [Java](https://docs.google.com/spreadsheets/d/10bewyL78kTUNiITTDytD0RAytZpUIginUv8_YE2K5BY/edit#gid=2060191091)
 - [QA](https://docs.google.com/spreadsheets/d/1VGSv_v3dH5fxoRiSo64oTcrJ8vIaF2Nm7_gaksfOX44/edit#gid=470006489)
 - [Node](https://docs.google.com/spreadsheets/d/1Ju6MbHkRXhXBqGhrvnAdi6XDWgACpxPwZUnNBs9mJ7U/edit#gid=2088418994)
@@ -108,21 +102,19 @@ Tu apoyo es vital para llenar la información que te corresponde de acuerdo a tu
 
 ### Ligas a Master File por programa y bloque
 
-- [Android Bloque 4](https://docs.google.com/spreadsheets/d/1tgDo5yIpDo0CKQgeclEYCc65z6EG4auu5-OZVJb56jo/edit?usp=sharing)
-- [iOS Bloque 4](https://docs.google.com/spreadsheets/d/1ugI_6G8kFoGLxwN8dbHRjtdqs3nAFGQgvTnqBlHCHjo/edit?usp=sharing)
-- [Java Bloque 4](https://docs.google.com/spreadsheets/d/1YiWjFe5zQI-7YT2ILeGEI7N2svik9ukxRq_BXYWvx2s/edit?usp=sharing)
-- [QA Bloque 4](https://docs.google.com/spreadsheets/d/16mD-9piBpH1ozRLCFk4u4pAsjUw806G6K0Lox7XBfzQ/edit?usp=sharing)
-- [NodeJS Bloque 4](https://docs.google.com/spreadsheets/d/1wynm-thrbYM35Udafy-zM2MMMdeM1UkKpuZCZUN5PHM/edit?usp=sharing)
+- [Java Mid Bloque 5](https://docs.google.com/spreadsheets/d/1YYt61djJI-M9f0HttZ5Yn8DStMKx-NpNoCK5BVdRh8s/edit?usp=sharing)
+- [Java Senior Bloque 5](https://docs.google.com/spreadsheets/d/1J37JORRZxufkWep2b-N0OuYkhy4O-tJZJpi2qhS-aag/edit?usp=sharing)
+- [QA Bloque 5](https://docs.google.com/spreadsheets/d/1-8VcpueZc5Bm9VLrSz6BCGKo3O98oZx5Ly5jXKzMeLw/edit?usp=sharing)
+- [NodeJS Bloque 5](https://docs.google.com/spreadsheets/d/13VcPWor8k_CdKL1Kr-RCeHyrrEVa6keuXH19Kr80I74/edit?usp=sharing)
 
 ## Formatos de Retroalimentación de clase
 Cada viernes, se comparte la liga del formato de retroalimentación con el grupo, unos minutos antes de terminar la clase. Esta información nos ayuda a medir cómo va el curso y la experiencia del estudiante para poder realizar ajustes a tiempo, de ser necesario.
 Se utilizará el mismo formato por programa, durante todos los bloques (sólo se van actualizando las fechas de las semanas).
 
-- [Android](https://docs.google.com/forms/d/e/1FAIpQLSdyJw4JNzKo1cTGaXi7Mt0AYWE7173bajxICkeps3I-py7A8Q/viewform?usp=share_link)
-- [iOS](https://docs.google.com/forms/d/e/1FAIpQLSf4vaiSJd6tIDh2hNeMxUL0_ztNEKVOMotvE2IQ5ZtaLvTHGg/viewform?usp=share_link)
-- [Java](https://docs.google.com/forms/d/e/1FAIpQLSdLjuyd_s3ceUrydKi7EC6SlPoeg_UqdgGhd2bzp2aoMBZE6A/viewform?usp=share_link)
-- [QA](https://docs.google.com/forms/d/e/1FAIpQLSelSftgblssMxjMlR12tfyanb0bT3hFRQ527G9IEDPjhtzZoA/viewform?usp=share_link)
-- [NodeJS](https://docs.google.com/forms/d/e/1FAIpQLSfI1x3ZsSUAgEFYcLrNcWgTFjDZBR4aL8sFkh8Xb5WCT4Ez-g/viewform?usp=share_link)
+- [Java Mid](https://forms.gle/HHmyk1Cc3ptuyjrMA)
+- [Java Senior](https://forms.gle/CprYqxtjzT75QxZv6)
+- [QA](https://forms.gle/8wgWmTtgy5rGttBz9)
+- [NodeJS](https://forms.gle/NZ8ehbakKxuijFcH8)
 
 ## Formatos para Mentoría
 Tanto el estudiante como el mentor deben llenar el formato correspondiente para validar sus mentorías realizadas.
