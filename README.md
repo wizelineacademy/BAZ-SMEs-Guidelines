@@ -70,6 +70,13 @@ Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje,
 - Asegurarse de que su estudiante envía sus entregables por medio del Form, para tener registro de entregas.
 - Revisar y calificar por medio del scorecard los entregables en un plazo máximo de 24 horas del día de entrega.
 - Enviar por correo los resultados y comentarios a cada estudiante, copiando a baz-dsa@wizeline.com. Basarse en este template para llenar toda la información respectiva al entregable del estudiante [Feedback Template](https://docs.google.com/document/d/1KpttDGgdnnASvkYyWbpfpop8KAG-lGY8i_WUDfmgqPQ/edit?usp=sharing)
+1. Recordarle al mentee fecha de entrega (calendario en el master y repositorio del alumno)
+2. Recordarle al mentee que registre su entrega en el formulario (en repositorio del alumno)
+3. Hacer comentarios de retroalimentación en el PR y/o mentoría
+4. Pedirle al mentee realizar los cambios en un lapso de 24hrs.
+5. Re-evaluar la entrega con los cambios.
+6. ##SÓLO enviar correo para la retroalimentación y calificación ##DEFINITIVA, con copia al mentee y a DSA  baz-dsa@wizeline.com utilizando template y puntos del scorecard.
+
 - Asistir a la sesión semanal de seguimiento con el equipo de DSA.
 
 # III. Documentación DSA/Digital Skills Accelerator
