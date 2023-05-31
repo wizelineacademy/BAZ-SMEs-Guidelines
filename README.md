@@ -75,7 +75,7 @@ Es la persona asignada de acompañar al estudiante en su proceso de aprendizaje,
 3. Hacer comentarios de retroalimentación en el PR y/o mentoría
 4. Pedirle al mentee realizar los cambios en un lapso de 24hrs.
 5. Re-evaluar la entrega con los cambios.
-6. SÓLO enviar correo para la retroalimentación y calificación DEFINITIVA, con copia al mentee y a DSA  baz-dsa@wizeline.com utilizando template y puntos del scorecard.
+6. **SÓLO** enviar correo para la retroalimentación y calificación **DEFINITIVA**, con copia al mentee y a DSA  baz-dsa@wizeline.com utilizando template y puntos del scorecard.
 
 - Asistir a la sesión semanal de seguimiento con el equipo de DSA.
 
